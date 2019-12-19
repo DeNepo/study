@@ -1,9 +1,12 @@
 # Awesome
 
-A giant collection of awesome learning resources for learning JS, web development ... and beyond :rocket:  
+> to do: move [the wiki](https://github.com/hackyourfuturebelgium/awesome/wiki) into the repo, and fill it out over the next months
 
-The real thing is [in the wiki](https://github.com/hackyourfuturebelgium/awesome/wiki).  Feel free to contribute, 
-this wiki is for you!
+A giant collection of awesome learning resources for learning JS, web development ... and beyond :rocket:
+
+> Psst.  Check out [the Awesome GitBook](https://awesome.hackyourfuture.be)
+
+Pull Requests are always welcome!
 
 ---
 ---
