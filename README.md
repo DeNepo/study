@@ -1,8 +1,8 @@
-# Awesome Links
+# Awesome
 
 A giant collection of awesome learning resources for learning JS, web development ... and beyond :rocket:  
 
-The real thing is [in the wiki](https://github.com/hackyourfuturebelgium/awesome-links/wiki).  Feel free to contribute, 
+The real thing is [in the wiki](https://github.com/hackyourfuturebelgium/awesome/wiki).  Feel free to contribute, 
 this wiki is for you!
 
 ---
