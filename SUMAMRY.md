@@ -6,4 +6,5 @@
 * [JavaScript](./javascript/README.md)
   * [The Basics](./javascript/the-basics.md)
 * [Project Methodology](./project-methodology.md)
+* [Awesome Awesomes](./awesome-awesomes.md)
 * [Open Education](./open-education.md)
