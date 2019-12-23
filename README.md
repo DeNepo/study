@@ -4,7 +4,7 @@
 
 A giant collection of awesome learning resources for learning JS, web development ... and beyond :rocket:
 
-> Psst.  Check out [the Awesome GitBook](https://awesome.hackyourfuture.be)
+> Psst.  Check out [the Awesome GitBook](https://awesome.hackyourfuture.be), or maybe the [SUMMARY.md](./SUMMARY.md) if you can't get enough github
 
 Pull Requests are always welcome!
 
