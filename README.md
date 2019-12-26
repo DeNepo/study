@@ -17,12 +17,12 @@ To keep this repository book up-to-date and as helpful as possible (for all HYFe
 >
 > From there you can directly send a patch or PR.
 
-* Do you know a great resource we've missed?  Send a Pull Request / Patch with the link!
+* Do you know a great resource we've missed?  Send a Pull Request / Patch with the link.
 * Links in all languages are welcome! Just let everyone know what language it is in with a little comment - (tr), (ru), ...
 * Are we missing an important topic? Send a PR with a new folder or file (and a link to it in the `SUMMARY.md`, to keep the GitBook up-to-date ;)
-* Was a certain link super helpful? Send us a patch with a :green_heart: after the link.  The more hearts the more helpful!
-* Was a link not very helpful, or even confusing? Send us a patch with a :broken_heart: after the link. If a link has too many :broken_heart: and not enough :green_heart:, we'll remove it.
-* All good things come to an end. If you find a link that has gone dead, send us a Patch with a :coffin: after the link.  We'll wait a couple months then remove it.  Sometimes links come back
+* Was a certain link super helpful? Send us a patch with a `+` after the link.  The more `+` the more helpful!
+* Was a link not very helpful, or even confusing? Send us a patch with a `-` after the link. If a link has too many `-` and not enough `+`, we'll remove it.
+* All good things come to an end. If you find a link that has gone dead, send us a Patch with a `X` after the link.  We'll wait a couple months then remove it.  Sometimes links come back
 
 
 ---
