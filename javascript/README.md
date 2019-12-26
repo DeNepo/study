@@ -13,13 +13,6 @@
 * [MDN](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics) - where you go to dig deeper
 * [FreeCodeCamp](https://www.freecodecamp.org), [JavaScript in 3 Hours](https://www.youtube.com/watch?v=PkZNo7MFNFg) & [video series](https://medium.freecodecamp.org/my-giant-javascript-basics-course-is-now-live-on-youtube-and-its-100-free-9020a21bbc27) - for lots of structured practice
 
-### writing stylish code:
-* [air bnb style guide](https://github.com/airbnb/javascript)
-* Linting: [eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint), [prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode), [setting them up](https://www.youtube.com/watch?v=YIvjKId9m2c)
-* [naming conventions](https://github.com/HackYourFuture/fundamentals/blob/master/fundamentals/naming_conventions.md)
-* [code formatting](https://github.com/HackYourFutureBelgium/fundamentals/blob/master/fundamentals/code_formatting.md)
-* [special characters](https://github.com/HackYourFuture/fundamentals/blob/master/fundamentals/names_of_special_characters.md)
-
 
 ### Other references & tutorials
 * [JavaScript for Cats](http://jsforcats.com) - Fun website with good examples to study.
