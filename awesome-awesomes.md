@@ -2,9 +2,9 @@
 
 # Awesome Awesomes
 
-Awesome lists of resources, so meta:
+😎 Awesome lists of resources, so meta:
 
-* [Awesome](https://github.com/sindresorhus/awesome) 😎
+* [Awesome](https://github.com/sindresorhus/awesome)
 * [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
 * [Frontend Dev Bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
 * [Awesome VS Code](https://github.com/viatsko/awesome-vscode)

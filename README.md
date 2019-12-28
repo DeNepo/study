@@ -10,6 +10,8 @@ The modules in our curriculum are organized by level and project, but this repos
 
 ## Contributions are Necessary!
 
+> This is very much a work in progress, please contribute or be patient :)
+
 To keep this repository book up-to-date and as helpful as possible (for all HYFers) we need _you_ to stay involved!
 
 

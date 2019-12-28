@@ -5,3 +5,4 @@
 * [naming conventions](https://github.com/HackYourFuture/fundamentals/blob/master/fundamentals/naming_conventions.md)
 * [code formatting](https://github.com/HackYourFutureBelgium/fundamentals/blob/master/fundamentals/code_formatting.md)
 * [special characters](https://github.com/HackYourFuture/fundamentals/blob/master/fundamentals/names_of_special_characters.md)
+
