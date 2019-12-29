@@ -1,9 +1,11 @@
 javascript
   errors & life cycle
   variables
-  functions
-  types & values
   operators
+  types & values
+  functions
+  operators
+  types & values
   control flow
   this
   closure

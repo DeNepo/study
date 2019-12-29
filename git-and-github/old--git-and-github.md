@@ -1,4 +1,4 @@
-> sort this into new files
+> sort this
 
 
 * [GitHub CheatSheet](https://github.com/tiimgreen/github-cheat-sheet)

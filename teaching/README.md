@@ -15,3 +15,7 @@ Teaching and doing are two largely unrelated applications of the same knowledge.
 * [How do you teach something when you don't know it yourself?](https://cseducators.stackexchange.com/questions/4379/how-do-you-teach-something-when-you-dont-know-it-yourself)
 * [Pedagogical Content Knowledge](https://medium.com/luceresearchlab/what-should-cs-teachers-study-2c58a60ed12f)
 * [Teaching Tips & Tricks (HYF)](https://github.com/HackYourFuture/teaching_tips_tricks)
+
+
+## Bad Practices
+* [Mark Guzdial speaks](https://www.youtube.com/watch?v=ZpxxwZ9f_bo)
