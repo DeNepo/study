@@ -2,7 +2,7 @@
 
 The first technology you will learn is Git.  Git commands can be quite counterintuitive and the details of how it works are heavy, but understanding how Git works well enough to start organizing your development is quite easy!
 
-The quickest way to understand Git is to imagine it as a series of circles connected by lines with arrows pointing to specific circles. Each command you enter adds a ball, moves an arrow or rearranges the lines and circles.  Below are two "games" that will introduce you to Git by building your visual understanding of what is happening behind the scenes:
+The quickest way to understand Git is to imagine it as a series of circles connected by lines, with arrows pointing to some of the circles. Each command you enter adds a ball, moves an arrow or rearranges the lines and circles.  Below are two "games" that will introduce you to Git by building your visual understanding of what is happening behind the scenes:
 
 * [LearnGitBranching](https://learngitbranching.js.org/) & [video tutorial](https://www.youtube.com/watch?v=dG0ke9vILQM)
 * [git-school](https://git-school.github.io/visualizing-git/)
