@@ -8,6 +8,15 @@ Instead take the time to learn from the inside out, building your notional machi
 
 Many of the exercises you will be assigned while at HYF are designed specifically to help you master the JS notional machine.  These exercises will all have links that help you to study your exercises directly in a visualization tool.  Many of these exercises will also feel abstract and irrelevant. But push through, and use the visualization tools!  If you spend the time to complete these exercises, you'll find that the more interesting problem-solving exercises and weekly projects will be much more understandable.
 
+### Index
+1. [The Core](#the-core)
+1. [The Event Loop](#the-event-loop)
+1. [Promises & Async/Await](#promises-and-async-await)
+1. [Browser APIs](#browser-apis)
+
+
+---
+
 ## The Core
 
 > psst.  "The Core" isn't an official term, it's just a helpful way to talk about all JS language features that take place on the main _thread_.  Don't worry too much about this for now, you'll more about this later on.
@@ -44,6 +53,16 @@ The tool you will use to understand the Event Loop is called Loupe, and it comes
 [TOP](#javascript)
 
 ---
+
+
+## Promises and Async/Await
+
+
+
+[TOP](#javascript)
+
+---
+
 
 ## Browser APIs
 
