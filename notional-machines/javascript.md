@@ -29,6 +29,29 @@ To understand how memory is handled in JS (which is the key to effective program
 * [About PythonTutor](https://www.youtube.com/watch?v=sVtXLdBRfyE)
 * [GitHub Repo](https://github.com/pgbovine/OnlinePythonTutor)
 
+### A note on Expression Evaluation
+
+The one downside to JS Tutor is that it does not step through expressions, making it difficult to build an understanding of how JS evaluates complex expressions in many small steps behind the scenes.  This is especially important in the world of JavaScript where dense, one-liners are considered awesome:
+
+```js
+// Create an array of the past seven days, inclusive
+[...Array(7).keys()].map(days => new Date(Date.now() - 86400000 * days));
+```
+- [Ali Spittel](https://dev.to/healeycodes/javascript-one-liners-that-make-me-excited-56aj)
+
+You will come across them all the time!  While it's true that they can make complex logic short and readable for experienced programmers, this is often not true when you're first learning.
+
+Learning to step through expressions is essential to becoming a master JS programmer, this is how you'll be able to read other people's code and become an idiomatic JavaScript developer yourself.  But it won't happen by chance!  Here are some ways you can build this skill in a visual way:
+
+* Study how [Operator Precedence](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Operator_Precedence) works in JS.
+* Master [explicit type coercion](https://github.com/janke-learning/primitive-types/blob/master/explicit-coercion.md).  Understanding these rules first will make JS operators and implicit coercion much less mysterious.
+* Use tools like [Tyler's JS Visualizer](https://tylermcginnis.com/javascript-visualizer/?code=var%20a%20%3D%204%2C%20b%20%3D%20%224%22%3B%0A%0Avar%20longExpression%20%3D%20a%20%2B%20b%20%2A%20%28b%20%2B%20true%29%3B) or the [AST Explorer](https://astexplorer.net/#/gist/59491c046be8baf8cf5b92ec05356b4b/77690bbb53cc5bcf8021a2ccaada76920d4ef6b6) to help visualize how JS breaks down long expressions into single steps.
+* Use your browser's debugger to step through expressions one operator at a time
+* Practice [expanding](https://github.com/janke-learning/expanding) JS one-liners until there is only one operator per line.
+
+Unfortunately there is no easy way to learn this because JS is a complicated and messy language.  There are a lot of counter-intuitive rules in the language, but they are still just rules!  You can learn then and once you do you will be set free.
+
+
 [TOP](#javascript)
 
 ---
