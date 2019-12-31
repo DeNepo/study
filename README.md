@@ -6,6 +6,7 @@ A giant collection of awesome learning resources to help you succeed at HYF and 
 
 The modules in our curriculum are organized by level and project, but this repository is organized by topic and technology so it can be an easy reference no matter when you need to review.  No need to remember in which week of which module you covered _ChildNode.remove()_, just go to the page about _The DOM_ to review.
 
+
 ---
 
 ## Contributions are Necessary!
@@ -26,6 +27,15 @@ To keep this repository book up-to-date and as helpful as possible (for all HYFe
 * Was a link not very helpful, or even confusing? Send us a patch with a `-` after the link. If a link has too many `-` and not enough `+`, we'll remove it.
 * All good things come to an end. If you find a link that has gone dead, send us a Patch with a `X` after the link.  We'll wait a couple months then remove it.  Sometimes links come back
 
+---
+
+## Markdown
+
+Markdown is so important to open source development that it deserves to be on this front page, and simple enough that you'll never need more than a few references.  so here they are!
+
+* [Markdown Cheat Sheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+* [GitHub Emojis](https://jzeferino.github.io/AllGithubEmojis/)
+* [emojis in commits](https://gitmoji.carloscuesta.me/)
 
 ---
 ---

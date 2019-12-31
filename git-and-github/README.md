@@ -1,6 +1,8 @@
 # Git & GitHub
 
-[What is Version Control, and why is it important?](https://www.perforce.com/blog/vcs/what-is-version-control)
+* [What is Version Control, and why is it important?](https://www.perforce.com/blog/vcs/what-is-version-control)
+* [what is version control?](https://www.atlassian.com/git/tutorials/what-is-version-control)
+* [bootcamp git](https://github.com/hcs/bootcamp-git/wiki)
 
 ---
 
@@ -8,6 +10,21 @@
 * [git & github for poets](https://www.youtube.com/watch?v=BCQHnlnPusY&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV) - Learn Git & GitHub, without any code! `+`
 * [git-it](https://github.com/jlord/git-it-electron/) - a downloadable tutorial on how to use git & github
 * [Built with Branches](https://github.com/HackYourFutureBelgium/built-with-branches) - A small demo project to see how Git/GitHub are used to organize development.
+
+---
+
+
+* video tutorial series
+  * [david mahler explains](https://www.youtube.com/watch?v=uR6G2v_WsRA)
+  * [net ninja](https://www.youtube.com/watch?v=3RjQznt-8kE&list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR)
+* single videos
+  * [What is GitHub](https://www.youtube.com/watch?v=w3jLJU7DT5E&feature=share)
+  * [FCC](https://www.youtube.com/watch?v=x0EYpi38Yp4)
+  * [eureka](https://www.youtube.com/watch?v=xuB1Id2Wxak)
+* quick references:
+  * [rogerdudler](http://rogerdudler.github.com/git-guide)
+  * [firstaidgit](http://firstaidgit.io/#/)
+
 
 ---
 ---
