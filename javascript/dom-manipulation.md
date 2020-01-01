@@ -7,7 +7,3 @@
 * [more from HYF Amsterdam](https://github.com/HackYourFuture/JavaScript2/blob/master/Week1/README.md)
 * [javascript.info](https://javascript.info/document) (.1 & .2 are enough for now)
 
-
-### Much Practice:
-* [LambdaSchool Nested Data Exercises](https://github.com/LambdaSchool/Unit-1-JS-Assessment)
-
