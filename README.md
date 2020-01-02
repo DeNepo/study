@@ -2,9 +2,7 @@
 
 > Read this [as a GitBook](https://awesome.hackyourfuture.be) or [directly from the SUMMARY](./SUMMARY.md) in the repo.
 
-A giant collection of awesome learning resources to help you succeed at HYF and beyond. The goal of this repository is to be the one tab you can't help but pin.
-
-The modules in our curriculum are organized by level and project, but this repository is organized by topic and technology so it can be an easy reference no matter when you need to review.  No need to remember in which week of which module you covered _ChildNode.remove()_, just go to the page about _The DOM_ to review.
+A giant collection of awesome knowledge and resources to help you succeed at HYF and beyond. The goal of this repository is to be the one tab you can't help but pin.
 
 
 ---
