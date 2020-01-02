@@ -30,7 +30,8 @@
   * [Debugging](./node-js/debugging.md)
   * [fs](./node-js/fs.md)
   * [APIs](./node-js/apis.md)
-* [Class Recordings](./class-recordings.md)
 * [Teaching](./teaching/README.md)
   * [Code-Alongs](./teaching/code-alongs.md)
+* [Open Education](./open-education/README.md)
+* [Class Recordings](./class-recordings.md)
 

@@ -10,6 +10,7 @@
 * [git & github for poets](https://www.youtube.com/watch?v=BCQHnlnPusY&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV) - Learn Git & GitHub, without any code! `+`
 * [git-it](https://github.com/jlord/git-it-electron/) - a downloadable tutorial on how to use git & github
 * [Built with Branches](https://github.com/HackYourFutureBelgium/built-with-branches) - A small demo project to see how Git/GitHub are used to organize development.
+* [Learn Git](https://github.com/DevMountain/learn-git) - guided practice from DevMountain
 
 ---
 
