@@ -4,6 +4,8 @@
 * [Splitting User Stories](https://www.youtube.com/watch?v=EDT0HMtDwYI)
 * [Duck Duck Search](https://duckduckgo.com/?q=what+are+user+stories&iax=videos)
 * [Example project: Built with Branches](https://github.com/hackyourfuturebelgium/built-with-branches)
+* [Examples and a Template](https://www.atlassian.com/agile/project-management/user-stories)
+* [Obligatory: WikiPedia](https://en.wikipedia.org/wiki/User_story)
 
 ---
 
