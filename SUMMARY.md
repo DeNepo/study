@@ -19,6 +19,8 @@
   * [Workflows](./git-and-github/workflows.md)
 * [Programming](./programming/README.md)
   * [Code Review](./programming/code-review.md)
+* [Agile Development](./agile-development/README.md)
+  * [User Stories](./agile-development/user-stories.md)
 * [JavaScript](./javascript/README.md)
 * [HTML & CSS](./html-css/README.md)
   * [HTML](./html-css/html.md)
