@@ -17,6 +17,8 @@
   * [GUI Clients](./git-and-github/gui-clients.md)
   * [Because Windows](./git-and-github/because-windows.md)
   * [Workflows](./git-and-github/workflows.md)
+* [Programming](./programming/README.md)
+  * [Code Review](./programming/code-review.md)
 * [JavaScript](./javascript/README.md)
 * [HTML & CSS](./html-css/README.md)
   * [HTML](./html-css/html.md)

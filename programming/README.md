@@ -6,4 +6,4 @@ This chapter contains a list of skills, exercises and resource to help you bridg
 
 And what is programming anyway?  Before you learn it, you should have some idea what it is!
 
-- the audiences
+* [coding vs. programming](https://www.educba.com/coding-vs-programming/)

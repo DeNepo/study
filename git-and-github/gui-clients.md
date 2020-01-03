@@ -10,7 +10,9 @@ There's no shame in using these, many professional developers rarely use git fro
 
 ## Git Clients
 
-* [GitKraken](https://www.gitkraken.com/download) - Great documentation for beginners.  Available for Linux, Mac & Windows. ([Video tutorial from Ibrahim, <3](https://youtu.be/oQn3eSc7u_Y))
+* [GitKraken](https://www.gitkraken.com/download) - Great documentation for beginners.  Available for Linux, Mac & Windows.
+  * [Getting Started](https://support.gitkraken.com/start-here/interface/)
+  * [Video tutorial from Ibrahim, <3](https://youtu.be/oQn3eSc7u_Y)
 * [GitHub Desktop](https://desktop.github.com/) - Like being on GitHub, but on on your computer.  Not available for Linux.
 * [SourceTree](https://www.sourcetreeapp.com/) - Not available for Linux.
 * [git-gui](https://git-scm.com/docs/git-gui) - Native to Git, launches from command line.  Works on all platforms.
