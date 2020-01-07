@@ -4,7 +4,7 @@ what does it mean to learn a programming language and runtime environment?
 
 One workable answer is `to learn a "notional machine"`.
 
-A What? Just a fancy way of saying that you are comfortable using words and diagrams to explain what is happening inside of the computer at any point in time. A series of 
+A What? Just a fancy way of saying that you are comfortable using words and diagrams to explain what is happening inside of the computer at any point in your program's execution. A series of 
 
 * visualizations
 * diagrams
