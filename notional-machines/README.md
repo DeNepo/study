@@ -1,8 +1,21 @@
 # Notional Machines
 
-what does it mean to learn a programming language and runtime? It means to learn a "notional machine" - a series of visualizations, diagrams, refactoring techniques, and vocabulary that are accurate but manageable; correct enough that you can use them to predict program state, debug your projects, and accurately translate between diagrams & code. But not so precise that you get lost in low-level implementation.
+what does it mean to learn a programming language and runtime environment? 
 
-A very important feature of a notional machine is that it does not attempt to describe the programming language as like something else. One easy danger when learning to program is to use analogies for familiarity. This is especially dangerous because programming languages & computers are not like other things you know! Any intuitions built off of previous experience will be misleading and can make learning more difficult in the long run.
+One workable answer is `to learn a "notional machine"`.
+
+A What? Just a fancy way of saying that you are comfortable using words and diagrams to explain what is happening inside of the computer at any point in time. A series of 
+
+* visualizations
+* diagrams
+* refactoring techniques
+* vocabulary 
+
+That are accurate but manageable; correct enough that you can use them to predict program state, debug your projects, and accurately translate between diagrams & code. But not so precise that you get lost in low-level implementation.
+
+A very important feature of a notional machine is that it doesn't use analogies. It builds new intuitions based on how computers work, instead of building on old intuitions you already have about how the rest of the world works. 
+
+An easy danger when learning to program is to use analogies for familiarity. This is especially dangerous because programming languages & computers are not like other things you know! Any intuitions built off of previous experience will be misleading and can make learning more difficult in the long run.
 
 Using a common set of visualization tools, and correct vocabulary from day 1 is super important. Building up a correct understanding from nothing is only realistic when you, your peers and your coaches all discuss the same visuals with the same vocabulary.
 
