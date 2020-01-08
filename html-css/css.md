@@ -8,3 +8,5 @@
   * [grid garden](https://cssgridgarden.com/)
   * [flexbox defense](http://www.flexboxdefense.com/)
   * [flexbox zombies](https://mastery.games/p/flexbox-zombies)
+
+[specificity visualizer](https://isellsoap.github.io/specificity-visualizer/)

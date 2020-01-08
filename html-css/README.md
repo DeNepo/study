@@ -16,6 +16,7 @@ Are you still starting your projects with a blank page? [Don't do that!](https:/
 * [Media queries](https://css-tricks.com/css-media-queries/)
 * [The 30 CSS Selectors You Must Memorize](https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
 * [Article about multiple ways to select classes and id's](https://css-tricks.com/multiple-class-id-selectors)
+* [Useful Starter Files](https://github.com/macloo/html_css_templates)
 
 ## Open-Source Courses
 

@@ -1,5 +1,7 @@
 # HTML
 
+* [online HTML validator](https://validator.w3.org/) - just enter your website's URL!
+
 ## HTML5 Semantic Tags
 
 * [dwuser](http://www.dwuser.com/education/content/an-introduction-to-the-html5-structural-elements/)
