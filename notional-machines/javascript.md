@@ -2,9 +2,9 @@
 
 The best way to learn JavaScript is from the inside-out, focusing first on how your code is interpreted and how memory is managed then later learning to apply this to practical problems. Most introductions to JS cover the language from the outside in, focusing on the most interesting, practical or "intuitive" features first and directly apply them to programming challenges.
 
-This approach feels satisfying at first but will quickly slow your progress when you have difficulties determining if your bugs come from mistakes in logic or a misunderstanding of JavaScript. Integrating more advanced language features like reference/value or asynchronous execution will also be nothing but confusion if you don't have a solid mental model of JS to build them on top of.
+This approach feels satisfying at first but will quickly slow your progress when you have difficulties determining if your bugs come from mistakes in logic or a misunderstanding of JavaScript. Integrating more advanced language features like reference/value or asynchronous execution will also be nothing but confusion if you don't have a solid mental model of JS to build on top of.
 
-Instead take the time to learn from the inside out, building your notional machine in layers. focusing first on how the JS engine interprets commands and manages memory, building from the base concepts of program execution and errors all the way up to more complicated features like `this` and closure.  After mastering JavaScript's inner workings you'll find problem solving and programming strategies are much more approachable.
+Instead take some time to learn from the inside out, building your notional machine in layers. focusing first on how the JS engine interprets commands and manages memory, building from the base concepts of program execution and errors all the way up to more complicated features like `this` and closure.  After mastering JavaScript's inner workings you'll find problem solving and programming strategies are much more approachable.
 
 Many of the exercises you will be assigned while at HYF are designed specifically to help you master the JS notional machine.  These exercises will all have links that help you to study your exercises directly in a visualization tool.  Many of these exercises will also feel abstract and irrelevant. But push through, and use the visualization tools!  If you spend the time to complete these exercises, you'll find that the more interesting problem-solving exercises and weekly projects will be much more understandable.
 
@@ -81,7 +81,10 @@ The tool you will use to understand the Event Loop is called Loupe, and it comes
 
 ## Promises and Async/Await
 
+> coming soon.  Check out these sites while you wait
 
+* [Promises](https://bevacqua.github.io/promisees/)
+* [PromiseTree](https://shlomiassaf.github.io/PromiseTree/playground/)
 
 [TOP](#javascript)
 
