@@ -17,7 +17,9 @@ Something like this:
 
 ## 0. Working with Code
 
+## 1. Incremental development
 
+* Class 7, week 2, Kevin: [Build responsive webpage & git branching cover](https://youtu.be/zjivncbwHSg)
 
 [TOP](#class-recordings)
 
