@@ -29,4 +29,3 @@
   * [The DOM](./notional-machines/the-dom.md)
   * [Browsers](./notional-machines/browsers.md)
   * [The Internet](./notional-machines/the-internet.md)
-* [Class Recordings](./class-recordings.md)
