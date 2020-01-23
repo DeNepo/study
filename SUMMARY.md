@@ -1,5 +1,6 @@
 * [Learning](./learning/README.md)
   * [Self Assessment](./learning/self-assessment.md)
+* [Class Recordings](./class-recordings.md)
 * [Git and GitHub](./git-and-github/README.md)
   * [Git](./git-and-github/git.md)
   * [GitHub](./git-and-github/github.md)
