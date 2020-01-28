@@ -20,6 +20,7 @@ Something like this:
 ## 1. Incremental development
 
 * Class 7, week 2, Kevin: [Build responsive webpage & git branching cover](https://youtu.be/zjivncbwHSg)
+* Class 7, week 3, Kevin: [Build clonde of Prezi template](https://youtu.be/Lvppty5I6wA)
 
 [TOP](#class-recordings)
 
