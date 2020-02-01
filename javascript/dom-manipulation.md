@@ -1,5 +1,5 @@
+# DOM Manipulation
 
-## The DOM
 * [super highly recommended tutorial](https://dom-tutorials.appspot.com/static/index.html)
 * [DOM Crash-Course Tutorial](https://www.youtube.com/watch?v=0ik6X4DJKCc)
 * [sort of like JS Tutor, for the DOM](https://software.hixie.ch/utilities/js/live-dom-viewer/)

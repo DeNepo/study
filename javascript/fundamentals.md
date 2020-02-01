@@ -1,4 +1,4 @@
-## The Basics
+# Fundamentals
 
 
 ### starting out
@@ -37,6 +37,7 @@
 
 ### operators
 * order of operations & coercion: [equalities](https://janke-learning.org/equalities-coercion/), [arithmetic](https://janke-learning.org/arithmetic-coercion/)
+
 
 
 ### comparisons
@@ -115,14 +116,6 @@
     * Over Views:[dev.to](https://dev.to/promhize/javascript-in-depth-all-you-need-to-know-about-expressions-statements-and-expression-statements-5k2), [flaviocopes](https://flaviocopes.com/javascript-expressions/), [lib.ru](http://lib.ru/%3E%3C/JAVA/javascr/expr.html)
     * In Depth: [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators), [2ality](http://2ality.com/2012/09/expressions-vs-statements.html)
     * Assignment vs Comparison: [Overview (study with PyTut)](https://www.quirksmode.org/blog/archives/2008/01/using_the_assig.html#link1), [This isn't just a JS thing](http://wiki.c2.com/?AssignmentVsEqualityOperator)
-
-
-
-### Projects to use and study:
-* [array methods](https://github.com/HackYourFutureBelgium/array-methods) (code to study)
-* [equalities coercion](https://janke-learning.org/equalities-coercion/) (code to study)
-* [arithmetic coercion](https://janke-learning.org/arithmetic-coercion/) (code to study)
-
 
 
 
