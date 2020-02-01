@@ -22,7 +22,6 @@
 * Headfirst JavaScript: [PDF](http://wickedlysmart.com/wp-content/uploads/2014/03/Head_First_JavaScript_Programming_SampleChapter.pdf), [GitHub](https://github.com/bethrobson/Head-First-JavaScript-Programming) - very thorough and well-guided introduction.
 * [Beau Teaches JS](https://www.youtube.com/watch?v=le-URjBhevE&list=PLWKjhJtqVAbk2qRZtWSzCIN38JC_NdhW5) - youtube series
 
-nested data structures: https://github.com/LambdaSchool/Unit-1-JS-Assessment
 
 
 
