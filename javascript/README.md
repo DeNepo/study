@@ -12,7 +12,9 @@
 ### Your Go-To JS resources:
 * [Javascript.info](https://javascript.info) - the best reference for good & quick explanations
 * JS Study Tools: [JS Tutor](http://www.pythontutor.com/live.html#mode=edit), [parsonizer](https://janke-learning.org/parsonizer/) & [the devtools](https://developer.mozilla.org/en-US/docs/Tools)
-* [__Philip Guo video series__](https://www.youtube.com/watch?v=VZfNZGekVms&list=PLzV58Zm8FuBJFfQN5il3ujx6FDAY8Ds3u) and [article introducing them](http://www.pgbovine.net/javascript-language-fundamentals.htm) - _highly_ recommended, based on JS Tutor
+* [Traversy JS Crash Course](https://www.youtube.com/watch?v=hdI2bqOjy3c)
+* [mmtuts JavaScript video series](https://www.youtube.com/watch?v=ItYye9h_RXg&list=PL0eyrZgxdwhxNGMWROnaY35NLyEjTqcgB)
+* [Philip Guo video series](https://www.youtube.com/watch?v=VZfNZGekVms&list=PLzV58Zm8FuBJFfQN5il3ujx6FDAY8Ds3u) and [article introducing them](http://www.pgbovine.net/javascript-language-fundamentals.htm) -  __based on JS Tutor__
 * [MDN](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics) - where you go to dig deeper
 * [FreeCodeCamp](https://www.freecodecamp.org), [JavaScript in 3 Hours](https://www.youtube.com/watch?v=PkZNo7MFNFg) & [video series](https://medium.freecodecamp.org/my-giant-javascript-basics-course-is-now-live-on-youtube-and-its-100-free-9020a21bbc27) - for lots of structured practice
 
