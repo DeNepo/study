@@ -7,7 +7,7 @@
 
 ### variables
 * [javascript.info](https://javascript.info/variables)
-* [variables & hoisting](https://github.com/janke-learning/variables-and-hoisting)
+* [var, let, const](https://youtu.be/sjyJBL5fkp8)
 
 ### functions:
 * [functions](https://www.youtube.com/watch?v=bJUmxDsaduY&list=PLzV58Zm8FuBJFfQN5il3ujx6FDAY8Ds3u&index=6) (Guo video)

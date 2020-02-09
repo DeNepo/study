@@ -20,5 +20,3 @@ javascript
 * [__promises__: FunFunFunction](https://www.youtube.com/watch?v=2d7s3spWAzo&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
 * [__async/await__: FunFunFunction](https://www.youtube.com/watch?v=568g8hxJJp4)
 
-nested data structure practice:  [LambdaSchool Nested Data Exercises](https://github.com/LambdaSchool/Unit-1-JS-Assessment)
-
