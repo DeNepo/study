@@ -117,7 +117,8 @@
     * In Depth: [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators), [2ality](http://2ality.com/2012/09/expressions-vs-statements.html)
     * Assignment vs Comparison: [Overview (study with PyTut)](https://www.quirksmode.org/blog/archives/2008/01/using_the_assig.html#link1), [This isn't just a JS thing](http://wiki.c2.com/?AssignmentVsEqualityOperator)
 
-
+### Functional Programming
+*[Functional Programming in JS playlist] (https://www.youtube.com/watch?v=BMUiFMZr7vk&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
 
 ---
 ---
