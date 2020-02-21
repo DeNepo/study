@@ -6,4 +6,4 @@
 * [Inspecting the DOM](https://hackyourfuture.be/inspecting-the-dom/)
 * [more from HYF Amsterdam](https://github.com/HackYourFuture/JavaScript2/blob/master/Week1/README.md)
 * [javascript.info](https://javascript.info/document) (.1 & .2 are enough for now)
-
+* [Stepped Game to Study](https://github.com/PacktPublishing/Practice-a-JavaScript-DOM-Exercise-to-Build-a-Bird-Flying-Game)
