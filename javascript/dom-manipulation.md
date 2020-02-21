@@ -7,7 +7,7 @@
 * [sort of like JS Tutor, for the DOM](https://software.hixie.ch/utilities/js/live-dom-viewer/)
 * [Inspecting the DOM](https://hackyourfuture.be/inspecting-the-dom/)
 * [more from HYF Amsterdam](https://github.com/HackYourFuture/JavaScript2/blob/master/Week1/README.md)
-* [javascript.info](https://javascript.info/document) (.1 & .2 are enough for now)
+* [javascript.info/document](https://javascript.info/document) 
 
 ## Code to Study
 
