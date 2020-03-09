@@ -15,6 +15,7 @@
   * [Fundamentals](./javascript/fundamentals.md)
   * [DOM Manipulation](./javascript/dom-manipulation.md)
   * [Events](./javascript/events.md)
+  * [Object Oriented JS](./javascript/object-oriented-js.md)
 * [HTML & CSS](./html-css/README.md)
   * [HTML](./html-css/html.md)
   * [CSS](./html-css/css.md)
