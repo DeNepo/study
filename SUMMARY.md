@@ -13,6 +13,7 @@
   * [Agile Development](./collaboration/agile-development.md)
 * [JavaScript](./javascript/README.md)
   * [Fundamentals](./javascript/fundamentals.md)
+  * [ES6](./javascript/es6.md)
   * [DOM Manipulation](./javascript/dom-manipulation.md)
   * [Events](./javascript/events.md)
   * [Object Oriented JS](./javascript/object-oriented-in-js.md)
