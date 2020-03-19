@@ -16,7 +16,7 @@
   * [ES6](./javascript/es6.md)
   * [DOM Manipulation](./javascript/dom-manipulation.md)
   * [Events](./javascript/events.md)
-  * [Object Oriented JS](./javascript/object-oriented-in-js.md)
+  * [OOP](./javascript/oop.md)
 * [HTML & CSS](./html-css/README.md)
   * [HTML](./html-css/html.md)
   * [CSS](./html-css/css.md)
