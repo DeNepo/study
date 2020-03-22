@@ -25,3 +25,12 @@ Something like this:
 [TOP](#class-recordings)
 
 ---
+
+## 4. Encapsulation
+
+* Class 7 & 8, week 1, [Anthony Meirlaen](https://github.com/Toinne/): [Part 1, `this`](https://vimeo.com/399611933)
+
+[TOP](#class-recordings)
+
+---
+
