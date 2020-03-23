@@ -28,7 +28,9 @@ Something like this:
 
 ## 4. Encapsulation
 
-* Class 7 & 8, week 1, [Anthony Meirlaen](https://github.com/Toinne/): [Part 1, `this`](https://vimeo.com/399611933)
+* Class 7 & 8, week 1: 
+  * [Anthony](https://github.com/Toinne/): [Part 1, `this`](https://vimeo.com/399611933)
+  * [Bram](https://github.com/bramdevries/): [Part 2, OOP](https://vimeo.com/399631422)
 
 [TOP](#class-recordings)
 
