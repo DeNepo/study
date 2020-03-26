@@ -10,8 +10,9 @@
 ## `this`
 
 * [javascript.info/object-methods](https://javascript.info/object-methods)
+* [Mosh: this](https://www.youtube.com/watch?v=gvicrj31JOM)
 * Zach Gordon: [this](https://www.youtube.com/watch?v=2qMKjWf1KdE), [binding this](https://www.youtube.com/watch?v=73aAyap_88w), [example: event handlers](https://www.youtube.com/watch?v=sxRnmKldiBs)
-* [Examples of `this` and bind](https://www.youtube.com/watch?v=PIkA60I0dKU)
+* [Examples of `this` and bind](https://www.youtube.com/watch?v=PIkA60I0dKU) (funfunfunction)
 * [EyeBalling `this`](https://gist.github.com/zcaceres/2a4ac91f9f42ec0ef9cd0d18e4e71262)
 
 ## Getters & Setters
