@@ -13,7 +13,13 @@ Screen recordings of class.  Coaches, when sending your PR's with links please m
 
 ## 0. Working with Code
 
+> [module repo](https://github.com/hackyourfuturebelgium/working-with-code)
+
+---
+
 ## 1. Incremental development
+
+> [module repo](https://github.com/hackyourfuturebelgium/incremental-development)
 
 * Class 7, week 2, Kevin: [Build responsive webpage & git branching cover](https://youtu.be/zjivncbwHSg)
 * Class 7, week 3, Kevin: [Build clonde of Prezi template](https://youtu.be/Lvppty5I6wA)
@@ -23,6 +29,8 @@ Screen recordings of class.  Coaches, when sending your PR's with links please m
 ---
 
 ## 4. Encapsulation
+
+> [module repo](https://github.com/hackyourfuturebelgium/encapsulation)
 
 __Class 7 & 8__
 
