@@ -24,7 +24,7 @@ Screen recordings of class.  Coaches, when sending your PR's with links please m
 
 ## 4. Encapsulation
 
-### Class 7 & 8
+__Class 7 & 8__
 
 1. week 1: 
     * Part 1: [`this`](https://vimeo.com/399611933) - [Anthony](https://github.com/Toinne/)
