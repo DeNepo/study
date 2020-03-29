@@ -5,13 +5,9 @@ Screen recordings of class.  Coaches, when sending your PR's with links please m
 * Add a link to your video in the correct module's section
 * Indicate which class you were teaching
 * Which week it was
-* And your name.
+* Give your name
+* and a helpful description
 
-Something like this:
-
-```
-* [Class 7, week 2, Kevin]()
-```
 
 ---
 
@@ -28,9 +24,14 @@ Something like this:
 
 ## 4. Encapsulation
 
-* Class 7 & 8, week 1: 
-  * [Anthony](https://github.com/Toinne/): [Part 1, `this`](https://vimeo.com/399611933)
-  * [Bram](https://github.com/bramdevries/): [Part 2, OOP](https://vimeo.com/399631422)
+### Class 7 & 8
+
+1. week 1: 
+    * Part 1: [`this`](https://vimeo.com/399611933) - [Anthony](https://github.com/Toinne/)
+    * Part 2: [Object Oriented Programming](https://vimeo.com/399631422) - [Bram](https://github.com/bramdevries/)
+1. week 2:
+    * Part 1: [binding, and why it matters](https://vimeo.com/401830596) - [Bram](https://github.com/bramdevries/) 
+
 
 [TOP](#class-recordings)
 
