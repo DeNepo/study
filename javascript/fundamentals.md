@@ -36,6 +36,7 @@
 * [truthiness statements](https://github.com/janke-learning/truthiness/blob/master/statements-of-truthiness.md)
 
 ### operators
+* [tutorialspoint summary](https://www.tutorialspoint.com/javascript/pdf/javascript_operators.pdf)
 * order of operations & coercion: [equalities](https://janke-learning.org/equalities-coercion/), [arithmetic](https://janke-learning.org/arithmetic-coercion/)
 
 
