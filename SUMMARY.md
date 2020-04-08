@@ -17,6 +17,7 @@
   * [DOM Manipulation](./javascript/dom-manipulation.md)
   * [Events](./javascript/events.md)
   * [OOP](./javascript/oop.md)
+  * [Asynchronous](./javascript/asynchronous.md)
 * [HTML & CSS](./html-css/README.md)
   * [HTML](./html-css/html.md)
   * [CSS](./html-css/css.md)
