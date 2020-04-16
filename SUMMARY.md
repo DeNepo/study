@@ -16,6 +16,7 @@
   * [Events](./javascript/events.md)
   * [DOM Manipulation](./javascript/dom-manipulation.md)
   * [ES6](./javascript/es6.md)
+  * [Functional Programming](./javascript/functional-programming.md)
   * [OOP](./javascript/oop.md)
   * [Asynchronous](./javascript/asynchronous.md)
 * [HTML & CSS](./html-css/README.md)
