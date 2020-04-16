@@ -14,3 +14,7 @@
 * [Async JS Crash Course](https://www.youtube.com/watch?v=PoRJizFvM7s)
 * [Promise Basics](https://javascript.info/promise-basics)
 * Examples to Study: [egghead-javascript-promises](https://github.com/mariusschulz/egghead-javascript-promises)
+
+## Closure
+[Closure in Javascript](https://www.youtube.com/watch?v=71AtaJpJHw0&t=7s)
+[Closures in JavaScript | Inside a loop, inner function and setTimeoout](https://www.youtube.com/watch?v=-xqJo5VRP4A)
