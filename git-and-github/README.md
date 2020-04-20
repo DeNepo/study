@@ -24,6 +24,7 @@
   * [What is GitHub](https://www.youtube.com/watch?v=w3jLJU7DT5E&feature=share)
   * [FCC](https://www.youtube.com/watch?v=x0EYpi38Yp4)
   * [eureka](https://www.youtube.com/watch?v=xuB1Id2Wxak)
+  * [7 commands you didn't know](https://www.youtube.com/watch?v=wnYL4yUd-z0&feature=youtu.be)
 * quick references:
   * [rogerdudler](http://rogerdudler.github.com/git-guide)
   * [firstaidgit](http://firstaidgit.io/#/)
