@@ -5,6 +5,7 @@
   * [Git](./git-and-github/git.md)
   * [GitHub](./git-and-github/github.md)
   * [GUI Clients](./git-and-github/gui-clients.md)
+  * [GitKraken](./git-and-github/gitkraken.md)
   * [Because Windows](./git-and-github/because-windows.md)
   * [Workflows](./git-and-github/workflows.md)
 * [Programming](./programming/README.md)
