@@ -29,6 +29,11 @@
   * [rogerdudler](http://rogerdudler.github.com/git-guide)
   * [firstaidgit](http://firstaidgit.io/#/)
 
+---
+
+## SSH Keys
+
+Read [this article](https://jdblischak.github.io/2014-09-18-chicago/novice/git/05-sshkeys.html) to learn why SSH keys are so useful and how to use them.  This will make your life much easier.
 
 ---
 ---

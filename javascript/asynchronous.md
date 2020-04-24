@@ -16,7 +16,10 @@
 * [Promise Basics](https://javascript.info/promise-basics)
 * Examples to Study: [egghead-javascript-promises](https://github.com/mariusschulz/egghead-javascript-promises)
 * [Traversy: Asynchronous Programming](https://www.youtube.com/watch?v=PoRJizFvM7s)
+* [__promises__: FunFunFunction](https://www.youtube.com/watch?v=2d7s3spWAzo&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
+* [__async/await__: FunFunFunction](https://www.youtube.com/watch?v=568g8hxJJp4)
 
 ## Closure
+
 [Closure in Javascript](https://www.youtube.com/watch?v=71AtaJpJHw0&t=7s)
 [Closures in JavaScript | Inside a loop, inner function and setTimeoout](https://www.youtube.com/watch?v=-xqJo5VRP4A)

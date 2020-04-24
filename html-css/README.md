@@ -4,19 +4,43 @@ Are you still starting your projects with a blank page? [Don't do that!](https:/
 
 ---
 
-## Great References
+## General References
 
 * [Mozilla Developer Network](https://developer.mozilla.org/en-US/)
-* the FCC guide: [HTML](https://guide.freecodecamp.org/html), [Accessiblity](https://guide.freecodecamp.org/accessibility)
+* FreeCodeCamp has a [forum](https://forum.freecodecamp.org), a [chat room](https://gitter.im/FreeCodeCamp/CodeReview), and a [youtube channel](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ) where you can find support from people working on the same problems as you.
+* W3 Schools: [HTML](https://www.w3schools.com/html/default.asp), [CSS](https://www.w3schools.com/css/default.asp)
+* [Quentin Watt Video Series](https://www.youtube.com/playlist?list=PL41lfR-6DnOq3BebucTNMSVDojCIiv_en)
+* [Interneting is Hard](https://internetingishard.com)
+* [Marksheet.io](https://marksheet.io)
+
+---
+
+## HTML References
+
 * [Semantic vs. Formatting Tags (video)](https://www.youtube.com/watch?v=rKcAjg9wC5I)
-* [CSS reference](http://cssreference.io/)
-* [MDN - Introduction to CSS layout](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Introduction)
-* [CSS-tricks - CSS Properties](https://css-tricks.com/almanac/properties/)
-* [MDN - CSS box model](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model)
-* [Media queries](https://css-tricks.com/css-media-queries/)
-* [The 30 CSS Selectors You Must Memorize](https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
-* [Article about multiple ways to select classes and id's](https://css-tricks.com/multiple-class-id-selectors)
 * [Useful Starter Files](https://github.com/macloo/html_css_templates)
+* [HTML Cheat Sheet](https://digital.com/tools/html-cheatsheet/)
+* [Traversy: HTML5](https://www.youtube.com/watch?v=Wm6CUkswsNw) - Traversy is always great
+* [Traversy: Bootstrap](https://www.youtube.com/watch?v=5GcQtLDGXy8&t=3185s) - Traversy is always great
+
+---
+
+## CSS References
+
+* [CSS reference](http://cssreference.io/)
+* [CSS Cheat Sheet](https://www.onblastblog.com/css3-cheat-sheet/)
+* [HTMLdog CSS](http://htmldog.com/guides/css/)
+* [MDN - Introduction to CSS layout](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Introduction)
+* [MDN - CSS box model](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model)
+* [CSS-tricks - CSS Properties](https://css-tricks.com/almanac/properties/)
+* [Article about multiple ways to select classes and id's](https://css-tricks.com/multiple-class-id-selectors)
+* [The 30 CSS Selectors You Must Memorize](https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
+* [Media queries](https://css-tricks.com/css-media-queries/)
+* [CSS Wizardry](https://csswizardry.com)
+* [Non-Square Things](http://www.sarasoueidan.com/blog/css-shapes/)
+* [CSS Tricks](https://css-tricks.com)
+
+---
 
 ## Open-Source Courses
 
@@ -42,3 +66,11 @@ Are you still starting your projects with a blank page? [Don't do that!](https:/
 * [the server side](https://www.theserverside.com/tip/The-10-most-common-and-avoidable-HTML5-mistakes)
 * [HTML5 doctor](http://html5doctor.com/avoiding-common-html5-mistakes/) (more advanced)
 * [self-closing tags](http://xahlee.info/js/html5_non-closing_tag.html)
+
+---
+
+## Vocabulary Lists
+
+* HTML: [Timothy](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxrYXRhc2tldWlpc3Rvc2VsaWR3bnxneDo0YmNjZjM3MDBmNjBjYzVh), [CodeAcademy](https://www.codecademy.com/articles/glossary-html)
+* CSS: [Divya](http://nimbupani.com/css-vocabulary.html), [Timothy](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxkb3dubG9hZGZyZWVzaGFyZXxneDo0YTJlNTRkMGIwZDZiZWEx), [CodeAcademy](https://www.codecademy.com/articles/glossary-css)
+
