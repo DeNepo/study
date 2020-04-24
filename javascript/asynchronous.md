@@ -7,6 +7,7 @@
 
 ## Promises
 
+* Visualize Promises: [Promisees](https://bevacqua.github.io/promisees/), [PromiseTree](https://shlomiassaf.github.io/PromiseTree/playground/#/playground), [dev.to/lydiahallie](https://dev.to/lydiahallie/javascript-visualized-promises-async-await-5gke)
 * [Awesome Promises](https://github.com/wbinnssmith/awesome-promises)
 * [Promise Cookbook](https://github.com/mattdesl/promise-cookbook)
 * [Coding Train](https://www.youtube.com/watch?v=QO4NXhWo_NM&list=PLRqwX-V7Uu6bKLPQvPRNNE65kBL62mVfx)
