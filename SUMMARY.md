@@ -1,4 +1,7 @@
 * [Learning](./learning/README.md)
+  * [How to Ask Questions](./learning/how-to-ask-questions.md)
+  * [How to Study Programming](./learning/how-to-study-programming.md)
+  * [Study Strategies](./learning/study-strategies.md)
   * [Self Assessment](./learning/self-assessment.md)
 * [Git and GitHub](./git-and-github/README.md)
   * [Git](./git-and-github/git.md)
