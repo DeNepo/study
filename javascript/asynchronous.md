@@ -24,3 +24,6 @@
 
 [Closure in Javascript](https://www.youtube.com/watch?v=71AtaJpJHw0&t=7s)
 [Closures in JavaScript | Inside a loop, inner function and setTimeoout](https://www.youtube.com/watch?v=-xqJo5VRP4A)
+
+## Fetch API
+[Learn Fetch API In 6 Minutes](https://www.youtube.com/watch?v=cuEtnrL9-H0&list=PLfK7GzSJCtQz1ibcScVAGuOGUpdsIVuo3&index=12&t=0s)
