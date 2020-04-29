@@ -1,4 +1,3 @@
-* [home.hyf.be](https://home.hackyourfuture.e)
 * [Learning](./learning/README.md)
   * [How to Ask Questions](./learning/how-to-ask-questions.md)
   * [How to Study Programming](./learning/how-to-study-programming.md)
@@ -41,3 +40,4 @@
   * [Debuggers](./development-tools/debuggers.md)
 * [Productive Procrastination](./productive-procrastination.md)
 * [Class Recordings](./class-recordings.md)
+* [home.hyf.be](https://home.hackyourfuture.e)
