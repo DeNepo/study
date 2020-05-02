@@ -73,7 +73,7 @@ The tutorials below will introduce to what's new and what's special about Node. 
 * [What is Node.js? What can you do with it? Why should you use it? (Reading, ~10 minutes)](https://medium.com/@paynoattn/what-is-nodejs-what-can-you-do-with-it-why-should-you-use-it-8c8d6df32d6d#.qvbp8g4dq)
 * [Node.js Event Loop (Video, ~15 minutes)](https://youtu.be/PNa9OMajw9w)
 * [Try the event loop yourself (Loupe)](http://latentflip.com/loupe)
-
+* [Node.js examples to study](https://github.com/tertiarycourses/NodeJSTraining)
 
 ## <a name="getting-started">Getting started with Node.js</a>
 * [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web)
