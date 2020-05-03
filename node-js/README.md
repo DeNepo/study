@@ -74,6 +74,7 @@ The tutorials below will introduce to what's new and what's special about Node. 
 * [Node.js Event Loop (Video, ~15 minutes)](https://youtu.be/PNa9OMajw9w)
 * [Try the event loop yourself (Loupe)](http://latentflip.com/loupe)
 * [Node.js examples to study](https://github.com/tertiarycourses/NodeJSTraining)
+* <a href='https://nodejs.org/en/knowledge/command-line/how-to-parse-command-line-arguments/'>NodeJS: argsv</a>
 
 ## <a name="getting-started">Getting started with Node.js</a>
 * [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web)
