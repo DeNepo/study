@@ -3,6 +3,7 @@
 ## The Event Loop
 
 * [Loupe](http://latentflip.com/loupe/) +10
+* [Understanding Asynchronous JS](https://blog.bitsrc.io/understanding-asynchronous-javascript-the-event-loop-74cd408419ff)
 * [javascript.info/settimeout-setinterval](https://javascript.info/settimeout-setinterval)
 
 ## Promises
