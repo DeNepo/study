@@ -9,7 +9,6 @@
 1. pass the tests
 1. factor your code back in (directly or as a dependency)
 
-https://github.com/colevandersWands/debugging/blob/master/z-example.js
 
 ## Pre-Bugging
 

@@ -32,7 +32,7 @@ Divide the large amounts of tasks into small pieces, and think about how much ti
 Let’s take the example of JavaScript 1 week 3.
 
 __Homework + Recap (19 hours)__
-1. Recapping previous concepts (5 hours) 
+1. Recapping previous concepts (5 hours)
 2. JavaScript exercises (4 hours)
 3. Freecodecamp challenges (10 hours)
 
@@ -56,7 +56,7 @@ We have a certain number of articles and videos that we share as part of the cur
 
 ### How to Improve the Curriculum!
 
-1. Go to the Github page you want to add a suggestion to 
+1. Go to the Github page you want to add a suggestion to
 2. Click on Issues. ![](./images/using-issues.png)
 3. Click new issue and add your suggestions. This can be a URL to an article, a video, graphic or anything else that will improve the curriculum.
 4. We will review it and if we find it useful, add it to the curriculum.
@@ -135,7 +135,3 @@ Many of us are not living by ourselves. You might have children, or family membe
 Obviously, this chapter only provides you with a very basic introduction.
 If you are interested in learning more about how to learn effectively we recommend you to read more about deliberate learning and deep work. Studying effectively – although NOT easy- is a superpower you can use for the rest of your life!!!
 An excellent read about the value of working without distractions (and how to achieve it) is the book ​Deep Work​ by Cal Newport.
-
-___
-___
-### <a href="https://hackyourfuture.be" target="_blank"><img src="https://pbs.twimg.com/profile_images/984474625009741824/Bs_qKx6-_400x400.jpg" width="100" height="100"></img></a>

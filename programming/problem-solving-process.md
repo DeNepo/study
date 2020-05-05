@@ -1,4 +1,4 @@
-# How to study programming 
+# Problem Solving Process
 
 (tips for non-programmers)
 
@@ -119,7 +119,7 @@ This leads us to write the following code:
 const fruits = ["apple", "rottenBanana", "mango"];
 
 function takeOutRottenFruit(arrayOfFruits) {
-  const goodFruitsArray = arrayOfFruits.filter(fruit => fruit.include("rotten")); 
+  const goodFruitsArray = arrayOfFruits.filter(fruit => fruit.include("rotten"));
   return goodFruitsArray;
 }
 
@@ -132,7 +132,7 @@ When we write the code under step 4 in the Google Chrome Console we get the foll
 
 Probably we have made a small typo. Let’s google the include function. When we do, we notice that we should use fruit.includes (with an -s at the end).
 
-When we run the following code, it does not give any errors anymore.  
+When we run the following code, it does not give any errors anymore.
 However, I do notice that only ​rottenBanana ​is selected and displayed.
 
 Hmmm, what to do? Let’s go back to the basics. I remember that in my JavaScript 1 Module I learned something about ​operators.​ Indeed, I find that you can use the ​```!``` operator​ to return what is not ​true​ (everything that does ​not​ contain the word rotten). Let me try to add the ​```!``` operator.
@@ -141,9 +141,9 @@ Hmmm, what to do? Let’s go back to the basics. I remember that in my JavaScrip
 const fruits = ["apple", "rottenBanana", "mango"];
 
 function takeOutRottenFruit(arrayOfFruits) {
-  const goodFruitsArray = arrayOfFruits.filter(fruit => !fruit.includes("rotten")); 
+  const goodFruitsArray = arrayOfFruits.filter(fruit => !fruit.includes("rotten"));
   return goodFruitsArray;
-} 
+}
 
 const freshhhh = takeOutRottenFruit(fruits);
 ```
@@ -153,7 +153,3 @@ _Yay! It seems to work!_
 ### Reflect (6)
 
 > missing.  hmmm, isn't this the most important?
-
-___
-___
-### <a href="https://hackyourfuture.be" target="_blank"><img src="https://pbs.twimg.com/profile_images/984474625009741824/Bs_qKx6-_400x400.jpg" width="100" height="100"></img></a>

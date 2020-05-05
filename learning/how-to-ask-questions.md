@@ -63,7 +63,3 @@ If this happens, it is probably a good idea to take some time apart with the tea
 We can always provide you with some help, for instance by organizing individual video calls or appointments with former students or teachers. Moreover, it is important to revisit the basic concepts that you struggle and ​practice, practice, practice u​ ntil you dream of Javascript functions. After that, you can try to revisit the more advanced concepts (for instance by re-watching the lecture on YouTube).
 
 If you feel reason 3 applies to you, it is crucial not to wait and hope things get better with time. As the speed of our curriculum is very high, ​you have to take initiative and reach out to us for HELP.​ Again, good programmers ask for help. Those that do not ask for help, will never become good programmers.
-
-___
-___
-### <a href="https://hackyourfuture.be" target="_blank"><img src="https://pbs.twimg.com/profile_images/984474625009741824/Bs_qKx6-_400x400.jpg" width="100" height="100"></img></a>
