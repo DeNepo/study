@@ -38,7 +38,7 @@ __A paper notebook__
 __Tracking Your Progress__
 
 * [Write Code Every Day](https://johnresig.com/blog/write-code-every-day/)
-* [Keep a Study Journal](https://www.instatrick.com/writing-programming-journal/) X
+* [Keep a Study Journal](https://teachthought.com/literacy/20-types-of-learning-journals-that-help-students-think/)
 * [Weekly Review Day](https://www.youtube.com/watch?v=PlTrxpNaZI8)
 
 __Markdown (for taking pretty notes)__
