@@ -6,7 +6,7 @@
 * [what is version control?](https://www.atlassian.com/git/tutorials/what-is-version-control)
 * [bootcamp git](https://github.com/hcs/bootcamp-git/wiki)
 
-===
+___
 
 * [LearnGitBranching](https://learngitbranching.js.org/) & [video tutorial](https://www.youtube.com/watch?v=dG0ke9vILQM), or [git-school](https://git-school.github.io/visualizing-git/) - build a visual understanding of what happens inside git. `+`
 * [git & github for poets](https://www.youtube.com/watch?v=BCQHnlnPusY&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV) - Learn Git & GitHub, without any code! `+`
@@ -16,7 +16,7 @@
 * [Learn Git](https://github.com/DevMountain/learn-git) - guided practice from DevMountain
 * [git-novice](https://swcarpentry.github.io/git-novice/) - step-by-step with screen shots
 
-===
+___
 
 
 
@@ -32,7 +32,7 @@
   * [rogerdudler](http://rogerdudler.github.com/git-guide)
   * [firstaidgit](http://firstaidgit.io/#/)
 
-===
+___
 
 ## SSH Keys
 
