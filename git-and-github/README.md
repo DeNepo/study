@@ -1,11 +1,12 @@
 # Git & GitHub
 
+## About Git
+
 * [What is Version Control, and why is it important?](https://www.perforce.com/blog/vcs/what-is-version-control)
 * [what is version control?](https://www.atlassian.com/git/tutorials/what-is-version-control)
 * [bootcamp git](https://github.com/hcs/bootcamp-git/wiki)
 
----
-
+===
 
 * [LearnGitBranching](https://learngitbranching.js.org/) & [video tutorial](https://www.youtube.com/watch?v=dG0ke9vILQM), or [git-school](https://git-school.github.io/visualizing-git/) - build a visual understanding of what happens inside git. `+`
 * [git & github for poets](https://www.youtube.com/watch?v=BCQHnlnPusY&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV) - Learn Git & GitHub, without any code! `+`
@@ -13,8 +14,10 @@
 * [Built with Branches](https://github.com/HackYourFutureBelgium/built-with-branches) - A small demo project to see how Git/GitHub are used to organize development.
 * [Git Katas](https://github.com/praqma-training/git-katas)
 * [Learn Git](https://github.com/DevMountain/learn-git) - guided practice from DevMountain
+* [git-novice](https://swcarpentry.github.io/git-novice/) - step-by-step with screen shots
 
----
+===
+
 
 
 * video tutorial series
@@ -29,12 +32,9 @@
   * [rogerdudler](http://rogerdudler.github.com/git-guide)
   * [firstaidgit](http://firstaidgit.io/#/)
 
----
+===
 
 ## SSH Keys
 
 Read [this article](https://jdblischak.github.io/2014-09-18-chicago/novice/git/05-sshkeys.html) to learn why SSH keys are so useful and how to use them.  This will make your life much easier.
 
----
----
-### <a href="https://hackyourfuture.be" target="_blank"><img src="https://user-images.githubusercontent.com/18554853/63941625-4c7c3d00-ca6c-11e9-9a76-8d5e3632fe70.jpg" width="100" height="100" alt="Hack Your Future: Belgium"></a>
