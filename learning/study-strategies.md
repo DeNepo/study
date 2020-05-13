@@ -5,11 +5,11 @@ Most people study inefficiently. This is mostly because they never really learne
 As the HackYourFuture course is very demanding, this is critical to get through the program successfully. In fact, many successful experts that require focus and concentration for their craft (scientists, programmers, writers, artists, craftsmen, etc.) share one thing in common: they are very serious about ​how ​they learn. This chapter will give you a short introduction into how you can study most effectively.
 
 ### Index
-* [planning](planning)
+* [Planning](#planning)
 * [Don’t just read, code it!](#Don-t-just-read--code-it)
 * [Go to the basics](#Go-to-the-basics)
 * [Sleep, Breaks and Exercise](#Sleep--Breaks-and-Exercise)
-* [distractions](#distractions)
+* [Distractions](#distractions)
 * [How to become a pro at learning](#How-to-become-a-pro-at-learning)
 
 ---
@@ -23,7 +23,7 @@ Your homework will consist of various components. You will need to:
 * apply ​this knowledge in the homework exercises.
 
 Every week consists of the homework of the previous week and the reading material for the following week. For example, let’s say you are preparing for the lecture of JavaScript 1 week 3 on Sunday. This means you will have to do:
-* the ​HOMEWORK o​ f JavaScript 1 week 2 (The MAKEME.md ​here​)
+* the ​HOMEWORK​ of JavaScript 1 week 2 (The MAKEME.md ​here​)
 * the ​READING​ for JavaScript 1 week 3 (The README.md ​here​)
 
 Before you start doing anything, it’s good to ​plan your week ahead.
@@ -116,6 +116,8 @@ More generally, we recommend you eat healthy and do sports. There is a large bod
 The goal whilst studying should be to reach a state of ‘flow’. Flow can be described as the complete immersion in an activity. By doing so, you lose your sense of space and time. There is quite some research about ‘flow’. This research shows that not only your learning curve increases significantly, also the level of joy increases. In other words, if you are fully concentrated whilst programming you feel way more satisfied as a result.
 
 To reach this level of optimal concentration and create a state of flow, distractions should be shut out as much as possible. The two most common enemies are described below.
+
+[Here you can find a presentation](https://github.com/HackYourFutureBelgium/hack-the-talks/blob/master/How_to_increase_focus%26productivity.pdf) on **'How to increase focus & productivity'** one of our coaches shared with us during a HackTheTalk, the inspirational talks we organize on Sunday Mornings.
 
 ### Challenge number 1: Social Media & Phone
 Social media is incredibly bad for your focus and therefore it decreases your ability to learn complex concepts. In order to understand programming concepts your brain needs full focus. Every time it is interrupted by a phone or a message online, your brain has to switch its attention. To go back to your code after that will cost a lot of energy. In fact, studies have shown that just having a phone in the same room, reduces your ability to study significantly.
