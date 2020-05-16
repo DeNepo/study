@@ -45,4 +45,4 @@
   * [Debuggers](./development-tools/debuggers.md)
 * [Productive Procrastination](./productive-procrastination.md)
 * [Class Recordings](./class-recordings.md)
-* [home.hyf.be](https://home.hackyourfuture.e)
+* [home.hyf.be](https://home.hackyourfuture.be)

@@ -5,6 +5,7 @@
 * [the git & the hub](https://www.howtogeek.com/180167/htg-explains-what-is-github-and-what-do-geeks-use-it-for/)
 * [quora speaks](https://www.quora.com/What-is-GitHub-for-a-beginner-and-how-do-I-get-started-with-it)
 * [GitHub CheatSheet](https://github.com/tiimgreen/github-cheat-sheet)
+* [Creating a GitHub Pagess web site](https://www.youtube.com/watch?v=BA_c3bGQXlQ)
 * [GitHub for Collaboration](https://mozilla.github.io/open-leadership-training-series/articles/github-for-collaboration/)
 * [group practice exercises](https://github.com/HackYourFutureBelgium/git-github-practice)
 * [How to Update a Fork in Github](https://rick.cogley.info/post/update-your-forked-repository-directly-on-github/)
