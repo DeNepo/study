@@ -29,6 +29,7 @@
   * [HTML](./html-css/html.md)
   * [CSS](./html-css/css.md)
   * [Accessibility](./html-css/accessibility.md)
+  * [Responsive Design](./html-css/responsive-design.md)
 * [Command Line Interface](./command-line-interface/README.md)
   * [for Linux](./command-line-interface/for-linux.md)
   * [for Mac](./command-line-interface/for-mac.md)

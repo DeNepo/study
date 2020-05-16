@@ -3,7 +3,7 @@
 * [HTML Cheat Sheet](https://htmlcheatsheet.com/)
 * [online HTML validator](https://validator.w3.org/) - just enter your website's URL!
 
-## Semantic Layout
+## Semantic Elements
 
 * [7 things that aren't `<div>`](https://medium.com/@zac_heisey/7-alternatives-to-the-div-html-tag-7c888c7b5036)
 * [dwuser](http://www.dwuser.com/education/content/an-introduction-to-the-html5-structural-elements/)
@@ -16,13 +16,3 @@
 * [Using Sections and Outlines (MDN)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Using_HTML_sections_and_outlines)
 * [Semantic Layout (w3schools)](https://www.w3schools.com/html/html_layout.asp)
 
-## Responsive Design
-
-* [What is Responsive Design?](https://www.youtube.com/watch?v=5KGah8bW8GE)
-
-#### Testing Responsiveness
-
-* [In Chrome/Chromium](https://developers.google.com/web/tools/chrome-devtools/device-mode/)
-* [In Firefox](https://developer.mozilla.org/en-US/docs/Tools/Responsive_Design_Mode)
-* [responsivetesttool.com](http://responsivetesttool.com/)
-* [Emulating other Browsers](https://developers.google.com/web/tools/chrome-devtools/device-mode/testing-other-browsers)
