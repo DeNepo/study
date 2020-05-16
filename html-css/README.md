@@ -15,6 +15,14 @@ Are you still starting your projects with a blank page? [Don't do that!](https:/
 
 ---
 
+## Inspecting the DOM
+
+* [inspecting-the-dom](https://hackyourfuture.be/inspecting-the-dom)
+* [How to inspect an element](https://www.lifewire.com/get-inspect-element-tool-for-browser-756549)
+* [Modify the DOM. (does the source change?)](https://zapier.com/blog/inspect-element-tutorial/)
+
+---
+
 ## HTML References
 
 * [Semantic vs. Formatting Tags (video)](https://www.youtube.com/watch?v=rKcAjg9wC5I)
