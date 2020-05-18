@@ -8,21 +8,24 @@
 
 ___
 
-* [LearnGitBranching](https://learngitbranching.js.org/) & [video tutorial](https://www.youtube.com/watch?v=dG0ke9vILQM), or [git-school](https://git-school.github.io/visualizing-git/) - build a visual understanding of what happens inside git. `+`
-* [git & github for poets](https://www.youtube.com/watch?v=BCQHnlnPusY&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV) - Learn Git & GitHub, without any code! `+`
+## Practice
+
+* [LearnGitBranching](https://learngitbranching.js.org/) & [video tutorial](https://www.youtube.com/watch?v=dG0ke9vILQM)
+* [git-school](https://git-school.github.io/visualizing-git/) - build a visual understanding of what happens inside git. `+`
 * [git-it](https://github.com/jlord/git-it-electron/) - a downloadable tutorial on how to use git & github
-* [Built with Branches](https://github.com/HackYourFutureBelgium/built-with-branches) - A small demo project to see how Git/GitHub are used to organize development.
 * [Git Katas](https://github.com/praqma-training/git-katas)
 * [Learn Git](https://github.com/DevMountain/learn-git) - guided practice from DevMountain
 * [git-novice](https://swcarpentry.github.io/git-novice/) - step-by-step with screen shots
 
 ___
 
-
+## References
 
 * video tutorial series
+  * [git & github for poets](https://www.youtube.com/watch?v=BCQHnlnPusY&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV) - Learn Git & GitHub, without any code! `+`
   * [david mahler explains](https://www.youtube.com/watch?v=uR6G2v_WsRA)
   * [net ninja](https://www.youtube.com/watch?v=3RjQznt-8kE&list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR)
+  * [TutsPremium](https://www.youtube.com/user/TutsPremium/search?query=git)
 * single videos
   * [What is GitHub](https://www.youtube.com/watch?v=w3jLJU7DT5E&feature=share)
   * [FCC](https://www.youtube.com/watch?v=x0EYpi38Yp4)
