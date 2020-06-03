@@ -11,7 +11,7 @@
 
 ### Your Go-To JS resources:
 * [Javascript.info](https://javascript.info) - the best reference for good & quick explanations
-* JS Study Tools: [JS Tutor](http://www.pythontutor.com/live.html#mode=edit), [parsonizer](https://janke-learning.org/parsonizer/) & [the devtools](https://developer.mozilla.org/en-US/docs/Tools)
+* JS Study Tools: [JS Tutor](http://www.pythontutor.com/live.html#mode=edit), [the devtools](https://developer.mozilla.org/en-US/docs/Tools), VSCode Debugger
 * [Traversy JS Crash Course](https://www.youtube.com/watch?v=hdI2bqOjy3c)
 * [mmtuts JavaScript video series](https://www.youtube.com/watch?v=ItYye9h_RXg&list=PL0eyrZgxdwhxNGMWROnaY35NLyEjTqcgB)
 * [Philip Guo video series](https://www.youtube.com/watch?v=VZfNZGekVms&list=PLzV58Zm8FuBJFfQN5il3ujx6FDAY8Ds3u) and [article introducing them](http://www.pgbovine.net/javascript-language-fundamentals.htm) -  __based on JS Tutor__
@@ -35,7 +35,3 @@
 * [naming conventions](https://github.com/HackYourFuture/fundamentals/blob/master/fundamentals/naming_conventions.md)
 * [code formatting](https://github.com/HackYourFutureBelgium/fundamentals/blob/master/fundamentals/code_formatting.md)
 * [special characters](https://github.com/HackYourFuture/fundamentals/blob/master/fundamentals/names_of_special_characters.md)
-
----
----
-### <a href="https://hackyourfuture.be" target="_blank"><img src="https://user-images.githubusercontent.com/18554853/63941625-4c7c3d00-ca6c-11e9-9a76-8d5e3632fe70.jpg" width="100" height="100" alt="Hack Your Future: Belgium"></a>
