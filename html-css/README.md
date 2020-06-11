@@ -12,6 +12,7 @@ Are you still starting your projects with a blank page? [Don't do that!](https:/
 * [Quentin Watt Video Series](https://www.youtube.com/playlist?list=PL41lfR-6DnOq3BebucTNMSVDojCIiv_en)
 * [Interneting is Hard](https://internetingishard.com)
 * [Marksheet.io](https://marksheet.io)
+* [The difference between HTML, CSS & Javascript and how they relate - for Dummies](https://www.youtube.com/watch?v=gT0Lh1eYk78)
 
 ---
 
