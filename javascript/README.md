@@ -9,14 +9,12 @@
 * [code structure](https://javascript.info/structure) (js.info)
 
 
-### Your Go-To JS resources:
-* [Javascript.info](https://javascript.info) - the best reference for good & quick explanations
-* JS Study Tools: [JS Tutor](http://www.pythontutor.com/live.html#mode=edit), [the devtools](https://developer.mozilla.org/en-US/docs/Tools), VSCode Debugger
-* [Traversy JS Crash Course](https://www.youtube.com/watch?v=hdI2bqOjy3c)
-* [mmtuts JavaScript video series](https://www.youtube.com/watch?v=ItYye9h_RXg&list=PL0eyrZgxdwhxNGMWROnaY35NLyEjTqcgB)
-* [Philip Guo video series](https://www.youtube.com/watch?v=VZfNZGekVms&list=PLzV58Zm8FuBJFfQN5il3ujx6FDAY8Ds3u) and [article introducing them](http://www.pgbovine.net/javascript-language-fundamentals.htm) -  __based on JS Tutor__
-* [MDN](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics) - where you go to dig deeper
+### Go-To JS References:
 
+* [Javascript.info](https://javascript.info) - the best reference for good & quick explanations
+* [Just JavaScript](https://github.com/HackYourFutureBelgium/just-javascript)
+* [MDN](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics) - where you go to dig deeper
+* JS Study Tools: [JS Tutor](http://www.pythontutor.com/live.html#mode=edit), [the devtools](https://developer.mozilla.org/en-US/docs/Tools), VSCode Debugger
 
 ### Other references & tutorials
 * [dofactory](https://www.dofactory.com/tutorial/javascript)
