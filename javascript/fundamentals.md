@@ -1,5 +1,10 @@
 # Fundamentals
 
+### Awesome Tutorial Repos
+
+* [JavaScript for Everyone](https://github.com/Asabeneh/JavaScript-for-Everyone)
+* [30 Days of JavaScript](https://github.com/Asabeneh/30DaysOfJavaScript) 
+* [Introduction to JavaScript](https://github.com/nerdschoolbergen/introduction-to-javascript) 
 
 ### starting out
 * [Hello World](https://javascript.info/hello-world) (js.info)
