@@ -2,9 +2,11 @@
 
 ### Awesome Tutorial Repos
 
+* They're all good, pick your favorite and go for it!
 * [JavaScript for Everyone](https://github.com/Asabeneh/JavaScript-for-Everyone)
 * [30 Days of JavaScript](https://github.com/Asabeneh/30DaysOfJavaScript) 
 * [Introduction to JavaScript](https://github.com/nerdschoolbergen/introduction-to-javascript) 
+* [JS Exercises](https://github.com/codeyourfuture/js-exercises)
 
 ### starting out
 * [Hello World](https://javascript.info/hello-world) (js.info)
