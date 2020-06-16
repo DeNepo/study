@@ -15,6 +15,7 @@
 * [JavaScript for Everyone](https://github.com/Asabeneh/JavaScript-for-Everyone)
 * [30 Days of JavaScript](https://github.com/Asabeneh/30DaysOfJavaScript) 
 * [Introduction to JavaScript](https://github.com/nerdschoolbergen/introduction-to-javascript) 
+* [JavaScript Core 1 (CYF)](https://github.com/CodeYourFuture/JavaScript-Core-1-Homework)
 
 ### Go-To JS References:
 
