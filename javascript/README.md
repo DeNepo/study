@@ -25,6 +25,7 @@
 
 ### Other references & tutorials
 
+- [JS Exercises](https://github.com/hackyourfuturebelgium/js-exercises) (repository)
 * [dofactory](https://www.dofactory.com/tutorial/javascript)
 * [FreeCodeCamp](https://www.freecodecamp.org), [JavaScript in 3 Hours](https://www.youtube.com/watch?v=PkZNo7MFNFg) & [video series](https://medium.freecodecamp.org/my-giant-javascript-basics-course-is-now-live-on-youtube-and-its-100-free-9020a21bbc27) - for lots of structured practice
 * [JavaScript for Cats](http://jsforcats.com) - Fun website with good examples to study.
