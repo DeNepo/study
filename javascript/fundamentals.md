@@ -1,12 +1,12 @@
 # Fundamentals
 
-### Awesome Tutorial Repos
+### Awesome Tutorials
 
 * They're all good, pick your favorite and go for it!
+* [LaunchCode](https://education.launchcode.org/intro-to-professional-web-dev/index.html)
 * [JavaScript for Everyone](https://github.com/Asabeneh/JavaScript-for-Everyone)
 * [30 Days of JavaScript](https://github.com/Asabeneh/30DaysOfJavaScript) 
 * [Introduction to JavaScript](https://github.com/nerdschoolbergen/introduction-to-javascript) 
-* [JS Exercises](https://github.com/codeyourfuture/js-exercises)
 
 ### starting out
 * [Hello World](https://javascript.info/hello-world) (js.info)
@@ -128,6 +128,3 @@
    * [What a heck is the event loop anyway] (https://www.youtube.com/watch?v=8aGhZQkoFbQ)
 
 
----
----
-### <a href="https://hackyourfuture.be" target="_blank"><img src="https://user-images.githubusercontent.com/18554853/63941625-4c7c3d00-ca6c-11e9-9a76-8d5e3632fe70.jpg" width="100" height="100" alt="Hack Your Future: Belgium"></a>
