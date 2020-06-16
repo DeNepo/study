@@ -15,7 +15,6 @@
 * [JavaScript for Everyone](https://github.com/Asabeneh/JavaScript-for-Everyone)
 * [30 Days of JavaScript](https://github.com/Asabeneh/30DaysOfJavaScript) 
 * [Introduction to JavaScript](https://github.com/nerdschoolbergen/introduction-to-javascript) 
-* [JavaScript Core 1 (CYF)](https://github.com/CodeYourFuture/JavaScript-Core-1-Homework)
 
 ### Go-To JS References:
 
@@ -24,9 +23,10 @@
 * [MDN](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics) - where you go to dig deeper
 * JS Study Tools: [JS Tutor](http://www.pythontutor.com/live.html#mode=edit), [the devtools](https://developer.mozilla.org/en-US/docs/Tools), VSCode Debugger
 
-### Other references & tutorials
+### Other references, tutorials & practice
 
-- [JS Exercises](https://github.com/hackyourfuturebelgium/js-exercises) (repository)
+* [JavaScript Core 1 (CYF)](https://github.com/CodeYourFuture/JavaScript-Core-1-Homework) (practice repo)
+* [JS Exercises (CYF)](https://github.com/hackyourfuturebelgium/js-exercises) (practice repo)
 * [dofactory](https://www.dofactory.com/tutorial/javascript)
 * [FreeCodeCamp](https://www.freecodecamp.org), [JavaScript in 3 Hours](https://www.youtube.com/watch?v=PkZNo7MFNFg) & [video series](https://medium.freecodecamp.org/my-giant-javascript-basics-course-is-now-live-on-youtube-and-its-100-free-9020a21bbc27) - for lots of structured practice
 * [JavaScript for Cats](http://jsforcats.com) - Fun website with good examples to study.
