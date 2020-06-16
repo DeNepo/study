@@ -1,13 +1,5 @@
 # Fundamentals
 
-### Awesome Tutorials
-
-* They're all good, pick your favorite and go for it!
-* [LaunchCode](https://education.launchcode.org/intro-to-professional-web-dev/index.html)
-* [JavaScript for Everyone](https://github.com/Asabeneh/JavaScript-for-Everyone)
-* [30 Days of JavaScript](https://github.com/Asabeneh/30DaysOfJavaScript) 
-* [Introduction to JavaScript](https://github.com/nerdschoolbergen/introduction-to-javascript) 
-
 ### starting out
 * [Hello World](https://javascript.info/hello-world) (js.info)
 * [code structure](https://javascript.info/structure) (js.info)
@@ -20,8 +12,6 @@
 * [functions](https://www.youtube.com/watch?v=bJUmxDsaduY&list=PLzV58Zm8FuBJFfQN5il3ujx6FDAY8Ds3u&index=6) (Guo video)
 * [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions)
 * [javascript.info](https://javascript.info/function-basics)
-
-
 
 ### types & values
 * [variables & primitive types](https://www.youtube.com/watch?v=pHt_tKYUgbo&list=PLzV58Zm8FuBJFfQN5il3ujx6FDAY8Ds3u&index=2) (Guo video)
