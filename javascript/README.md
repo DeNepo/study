@@ -8,6 +8,13 @@
 * [Hello World](https://javascript.info/hello-world) (js.info)
 * [code structure](https://javascript.info/structure) (js.info)
 
+### Awesome Tutorials
+
+* They're all good, pick your favorite and go for it!
+* [LaunchCode](https://education.launchcode.org/intro-to-professional-web-dev/index.html)
+* [JavaScript for Everyone](https://github.com/Asabeneh/JavaScript-for-Everyone)
+* [30 Days of JavaScript](https://github.com/Asabeneh/30DaysOfJavaScript) 
+* [Introduction to JavaScript](https://github.com/nerdschoolbergen/introduction-to-javascript) 
 
 ### Go-To JS References:
 
@@ -17,12 +24,13 @@
 * JS Study Tools: [JS Tutor](http://www.pythontutor.com/live.html#mode=edit), [the devtools](https://developer.mozilla.org/en-US/docs/Tools), VSCode Debugger
 
 ### Other references & tutorials
+
 * [dofactory](https://www.dofactory.com/tutorial/javascript)
 * [FreeCodeCamp](https://www.freecodecamp.org), [JavaScript in 3 Hours](https://www.youtube.com/watch?v=PkZNo7MFNFg) & [video series](https://medium.freecodecamp.org/my-giant-javascript-basics-course-is-now-live-on-youtube-and-its-100-free-9020a21bbc27) - for lots of structured practice
 * [JavaScript for Cats](http://jsforcats.com) - Fun website with good examples to study.
 * Headfirst JavaScript: [PDF](http://wickedlysmart.com/wp-content/uploads/2014/03/Head_First_JavaScript_Programming_SampleChapter.pdf), [GitHub](https://github.com/bethrobson/Head-First-JavaScript-Programming) - very thorough and well-guided introduction.
 * [Beau Teaches JS](https://www.youtube.com/watch?v=le-URjBhevE&list=PLWKjhJtqVAbk2qRZtWSzCIN38JC_NdhW5) - youtube series
-
+* [JS Exercises](https://github.com/codeyourfuture/js-exercises)
 
 
 
