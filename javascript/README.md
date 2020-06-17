@@ -11,10 +11,20 @@
 ### Awesome Tutorials
 
 * They're all good, pick your favorite and go for it!
+
+#### Not Videos
+
 * [LaunchCode](https://education.launchcode.org/intro-to-professional-web-dev/index.html)
 * [JavaScript for Everyone](https://github.com/Asabeneh/JavaScript-for-Everyone)
 * [30 Days of JavaScript](https://github.com/Asabeneh/30DaysOfJavaScript) 
 * [Introduction to JavaScript](https://github.com/nerdschoolbergen/introduction-to-javascript) 
+
+#### Videos
+
+* [Dev Ed](https://www.youtube.com/watch?v=edlFjlzxkSI&list=PLDyQo7g0_nsX8_gZAB8KD1lL4j4halQBJ)
+* mmtuts: [How to Get Started with JS](https://www.youtube.com/watch?v=ItYye9h_RXg&list=PL0eyrZgxdwhxNGMWROnaY35NLyEjTqcgB&index=1)
+* Net Ninja: [JS Tutorial For Beginners](https://www.youtube.com/watch?v=qoSksQ4s_hg&list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET)
+* Mosh: [Learn JavaScript in 1 Hour](https://www.youtube.com/watch?v=W6NZfCO5SIk)
 
 ### Go-To JS References:
 
