@@ -9,6 +9,16 @@ Learning to run, explain, and modify existing code is a crucial skill to learn e
 * Programming is hard.
 * It's better to study slowly and learn from your mistakes than to code quickly and not understand what you wrote.
 
+### Read, Modify, Create
+
+Think of these three steps in your learning each time you encounter a new skill or language feature in programming.  Even experienced developers go through these steps when learning new technologies!
+
+1. __Read__: Learn to step through, predict, and understand code that other people wrote.
+1. __Modify__: Learn to change the behavior of other people's code with small modifications.
+1. __Create__: Learn to write your own code from an empty page.
+
+Don't worry about making to _Create_ as fast as possible.  The more time you spend learning to _Read_ and _Modify_, the better you will master _Create_.
+
 ## Read the code out loud
 
 Learning to read your code aloud and to pronounce the strange syntax in JavaScript is _super important_!  Practice alone, practice with a friend, record yourself and play it back.  When you watch video tutorials pay close attention and practice repeating how the teacher pronounces their code.
