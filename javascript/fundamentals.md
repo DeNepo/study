@@ -1,6 +1,5 @@
 # Fundamentals
 
-
 ### starting out
 * [Hello World](https://javascript.info/hello-world) (js.info)
 * [code structure](https://javascript.info/structure) (js.info)
@@ -13,8 +12,6 @@
 * [functions](https://www.youtube.com/watch?v=bJUmxDsaduY&list=PLzV58Zm8FuBJFfQN5il3ujx6FDAY8Ds3u&index=6) (Guo video)
 * [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions)
 * [javascript.info](https://javascript.info/function-basics)
-
-
 
 ### types & values
 * [variables & primitive types](https://www.youtube.com/watch?v=pHt_tKYUgbo&list=PLzV58Zm8FuBJFfQN5il3ujx6FDAY8Ds3u&index=2) (Guo video)
@@ -121,6 +118,3 @@
    * [What a heck is the event loop anyway] (https://www.youtube.com/watch?v=8aGhZQkoFbQ)
 
 
----
----
-### <a href="https://hackyourfuture.be" target="_blank"><img src="https://user-images.githubusercontent.com/18554853/63941625-4c7c3d00-ca6c-11e9-9a76-8d5e3632fe70.jpg" width="100" height="100" alt="Hack Your Future: Belgium"></a>
