@@ -19,8 +19,9 @@
 * [LaunchCode](https://education.launchcode.org/intro-to-professional-web-dev/index.html)
 * [JavaScript for Everyone](https://github.com/Asabeneh/JavaScript-for-Everyone)
 * [30 Days of JavaScript](https://github.com/Asabeneh/30DaysOfJavaScript) 
+* RithmSchool: [JS part 1](https://www.rithmschool.com/courses/javascript), [JS part 2](https://www.rithmschool.com/courses/intermediate-javascript/)
 * [Introduction to JavaScript](https://github.com/nerdschoolbergen/introduction-to-javascript) 
-* [FreeCodeCamp](https://www.freecodecamp.org), [JavaScript in 3 Hours](https://www.youtube.com/watch?v=PkZNo7MFNFg) & [video series](https://medium.freecodecamp.org/my-giant-javascript-basics-course-is-now-live-on-youtube-and-its-100-free-9020a21bbc27) - for lots of structured practice
+* [FreeCodeCamp](https://www.freecodecamp.org), [JavaScript in 3 Hours](https://www.youtube.com/watch?v=PkZNo7MFNFg) & [video series](https://medium.freecodecamp.org/my-giant-javascript-basics-course-is-now-live-on-youtube-and-its-100-free-9020a21bbc27) 
 
 #### Videos
 
