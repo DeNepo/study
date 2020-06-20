@@ -44,7 +44,7 @@ Some links:
 * Which line of code will execute first? second? third? ... last?
 * Which test cases will pass, and which will fail? Why?
 
-## Run the code and try to explain what happened 
+## Run the code and explain
 
 > _without stepping through_
 
@@ -54,7 +54,7 @@ Some links:
 * What can you learn about program memory from the output?
 * What can you learn about the order of execution from the program output?
 
-## Use tools to visualize program memory 
+## Visualize program memory 
 
 > Browser/VSC debugger, JS Tutor
 
