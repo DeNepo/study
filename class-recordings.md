@@ -6,6 +6,6 @@
 1. [asynchronous-programming](https://github.com/hackyourfuturebelgium/asynchronous-programming/tree/master/class-recordings.md)
 1. [web-apps](https://github.com/hackyourfuturebelgium/web-apps/tree/master/class-recordings.md)
 1. [databases](https://github.com/HackYourFutureBelgium/databases/blob/master/class-recordings.md)
-1. [frontend-frameworks](https://github.com/HackYourFutureBelgium/frontend-frameworks/tree/master/class-recordings.md)
+1. [frontend-frameworks](https://github.com/HackYourFutureBelgium/react/tree/master/class-recordings.md)
 
 
