@@ -33,6 +33,7 @@
 ### Go-To JS References:
 
 * [Javascript.info](https://javascript.info) - the best reference for good & quick explanations
+* [Eloquent JavaScript](https://eloquentjavascript.net/Eloquent_JavaScript.pdf)
 * [Just JavaScript](https://github.com/HackYourFutureBelgium/just-javascript)
 * [MDN](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics) - where you go to dig deeper
 * JS Study Tools: [JS Tutor](http://www.pythontutor.com/live.html#mode=edit), [the devtools](https://developer.mozilla.org/en-US/docs/Tools), VSCode Debugger
