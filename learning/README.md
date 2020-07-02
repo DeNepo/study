@@ -22,6 +22,7 @@ __About Learning to Code__
 * [Learn to Program in 21 Days](https://landing.athabascau.ca/bookmarks/view/2852968/the-easiest-way-to-teach-yourself-c-in-21-days)
 * [Effective Learning](https://github.com/hackyourfuturebelgium/effective-learning)
 * [How to increase focus and productivity](https://github.com/HackYourFutureBelgium/hack-the-talks/blob/master/How_to_increase_focus%26productivity.pdf)
+* [The WORST Study Habit for Software Developers](https://www.youtube.com/watch?v=rfVd-r79OL4)
 
 __Read Your Code Out Loud__
 
