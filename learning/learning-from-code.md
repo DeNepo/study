@@ -33,9 +33,10 @@ Some links:
 * [Why this is so important](https://www.youtube.com/watch?v=g1ib43q3uXQ&feature=youtu.be&t=1209)
 * [ASCII Pronunciation Rules for Programmers](https://blog.codinghorror.com/ascii-pronunciation-rules-for-programmers/)
 * [JavaScript Glossary](https://www.codecademy.com/articles/glossary-javascript)
+* [Coding Without Comments](https://blog.codinghorror.com/coding-without-comments/)
 
 
-## Predict what will happen 
+## Predict what will happen
 
 > _before running the code_
 
@@ -54,7 +55,7 @@ Some links:
 * What can you learn about program memory from the output?
 * What can you learn about the order of execution from the program output?
 
-## Visualize program memory 
+## Visualize program memory
 
 > Browser/VSC debugger, JS Tutor
 
