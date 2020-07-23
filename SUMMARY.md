@@ -25,6 +25,7 @@
   * [Functional Programming](./javascript/functional-programming.md)
   * [OOP](./javascript/oop.md)
   * [Asynchronous](./javascript/asynchronous.md)
+  * [hello](./javascript/hello.html)
 * [HTML & CSS](./html-css/README.md)
   * [HTML](./html-css/html.md)
   * [CSS](./html-css/css.md)
