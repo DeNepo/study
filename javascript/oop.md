@@ -6,6 +6,7 @@
 * [Programming with Mosh](https://www.youtube.com/watch?v=PFmuCDHHpwk)
 * [Traversy Crash Course](https://www.youtube.com/watch?v=vDJpGenyHaA), [Paired Study Code](https://github.com/HackYourFuture/JavaScript3/tree/master/Week3/traversy_oop_crash)
 * [In-Depth by FunFunFunction](https://www.youtube.com/playlist?list=PL0zVEGEvSaeHBZFy6Q8731rcwk0Gtuxub)
+* [Booklist App](https://www.youtube.com/watch?v=JaMCxVWtW58) (code-along)
 
 ## `this`
 
