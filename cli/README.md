@@ -14,8 +14,9 @@ This challenge is a little introduction to creating, navigating and editing file
 * <a href="https://www.youtube.com/watch?v=5XgBd6rjuDQ">mac</a>
 * <a href="https://www.youtube.com/watch?v=id3DGvljhT4">linux</a>
 
-### Getting Started
+### Getting Starte
 
+* [explainshell](https://explainshell.com/)
 * [bashcrawl](https://gitlab.com/slackermedia/bashcrawl/) - clone and explore!
 * [lterm](https://sr6033.github.io/lterm/) - online bash tutorial
 *  nice video intros: [Jesse Showalter](https://www.youtube.com/watch?v=5XgBd6rjuDQ), [Joe Collins](https://www.youtube.com/watch?v=oxuRxtrO2Ag), [Briana](https://www.youtube.com/watch?v=BFMyUgF6I8Y)
