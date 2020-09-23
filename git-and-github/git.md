@@ -2,6 +2,7 @@
 
 * [LearnGitBranching](https://learngitbranching.js.org/) & [video tutorial](https://www.youtube.com/watch?v=dG0ke9vILQM)
 * [git-school](https://git-school.github.io/visualizing-git/)
+* [Copenhagen](https://github.com/HackYourFuture-CPH/Git)
 
 ---
 
