@@ -2,12 +2,16 @@
 
 ## Start here
 
-- [What is Object Oriented Programming?](https://www.youtube.com/watch?v=rlLuL3jYLvA)
-- [What is Object Oriented Programming? (2)](https://www.youtube.com/watch?v=CXnnw9rQH5I)
-- [From HYF Amsterdam](https://github.com/HackYourFuture/JavaScript3/blob/master/Week3/README.md)
-- [Programming with Mosh](https://www.youtube.com/watch?v=PFmuCDHHpwk)
-- [Traversy Crash Course](https://www.youtube.com/watch?v=vDJpGenyHaA), [Paired Study Code](https://github.com/HackYourFuture/JavaScript3/tree/master/Week3/traversy_oop_crash)
-- [In-Depth by FunFunFunction](https://www.youtube.com/playlist?list=PL0zVEGEvSaeHBZFy6Q8731rcwk0Gtuxub)
+* [What is Object Oriented Programming?](https://www.youtube.com/watch?v=rlLuL3jYLvA)
+* [What is Object Oriented Programming? (2)](https://www.youtube.com/watch?v=CXnnw9rQH5I)
+* [From HYF Amsterdam](https://github.com/HackYourFuture/JavaScript3/blob/master/Week3/README.md)
+* [Programming with Mosh](https://www.youtube.com/watch?v=PFmuCDHHpwk)
+* [Traversy Crash Course](https://www.youtube.com/watch?v=vDJpGenyHaA), [Paired Study Code](https://github.com/HackYourFuture/JavaScript3/tree/master/Week3/traversy_oop_crash)
+* [In-Depth by FunFunFunction](https://www.youtube.com/playlist?list=PL0zVEGEvSaeHBZFy6Q8731rcwk0Gtuxub)
+* [Refactor to OOP](https://www.youtube.com/watch?v=rlLuL3jYLvA) (code-along)
+* [Practical JavaScript Tutorial](https://watchandcode.com/p/practical-javascript) (+1000)
+* [Booklist App](https://www.youtube.com/watch?v=JaMCxVWtW58) (code-along)
+
 
 ---
 
