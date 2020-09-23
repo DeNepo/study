@@ -23,6 +23,7 @@ ___
 
 * video tutorial series
   * [git & github for poets](https://www.youtube.com/watch?v=BCQHnlnPusY&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV) - Learn Git & GitHub, without any code! `+`
+  * [Traversy Crashcourse](https://www.youtube.com/watch?v=SWYqp7iY_Tc&t=1702s)
   * [david mahler explains](https://www.youtube.com/watch?v=uR6G2v_WsRA)
   * [net ninja](https://www.youtube.com/watch?v=3RjQznt-8kE&list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR)
   * [TutsPremium](https://www.youtube.com/user/TutsPremium/search?query=git)
