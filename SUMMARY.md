@@ -41,7 +41,7 @@
 * [Node.js](./node-js/README.md)
   * [REPL](./node-js/repl.md)
   * [Getting Started](./node-js/getting-started.md)
-  * [Native Modules](./node-js/native-modules.md)
+  * [Built-In Modules](./node-js/built-in-modules.md)
   * [Debugging](./node-js/debugging.md)
   * [Environmental Variables](./node-js/environmental-variables.md)
   * [Setting up a Project](./node-js/setting-up-a-project.md)
