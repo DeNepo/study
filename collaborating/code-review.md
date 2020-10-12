@@ -6,6 +6,7 @@
 * [Mastering GitHub Issues](https://guides.github.com/features/issues/)
 * [Opening issues from lines of code](https://help.github.com/en/github/managing-your-work-on-github/opening-an-issue-from-code)
 * [Linking issues to lines of code](https://help.github.com/en/github/managing-your-work-on-github/creating-a-permanent-link-to-a-code-snippet)
+* [The Science of Code Review](https://www.youtube.com/watch?v=EyL7mqwpZhk)
 
 ## Deeper Dives
 
