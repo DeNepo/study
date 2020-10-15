@@ -46,9 +46,9 @@
   * [Beginning PHP & MySQL](./PHP/Beginning%20PHP%20and%20MySQL.pdf)
   * [Learn PHP 7](./PHP/Learn%20PHP%207%20Object%20Oriented%20Modular%20.pdf)
 * [React](./React/README.md.md)
-  * [Learn React](./PHP/Beginning%20PHP%20and%20MySQL.pdf)
-  * [The road to learn React](./PHP/Learn%20PHP%207%20Object%20Oriented%20Modular%20.pdf) 
-* [React](./Text-editors/README.md.md) 
+  * [Learn React](./React/Learning%20React%20.pdf)
+  * [The road to learn React](./React/The%20Road%20to%20learn%20React%20.pdf) 
+* [Text Editors](./Text-edito/README.md.md) 
   * [VSC](./Text-editors/Visual%20Studio%20Code%20End-To-End.pdf)
   * [VIM](./Text-editors/vim.pdf)
   
