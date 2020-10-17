@@ -42,7 +42,7 @@
   * [Responsive Design](./html-css/responsive-design.md)
   * [HTML](./html-css/HTML%20Learn%20HTML%20With%20Ultimate.pdf)
   * [Responsive Design book](./html-css/Responsive%20Web%20Design%20with%20HTML5%20and%20CSS%20.pdf)
-* [PHP & SGL](./PHP/README.md)
+* [PHP & SQL](./PHP/README.md)
   * [Beginning PHP & MySQL](./PHP/Beginning%20PHP%20and%20MySQL.pdf)
   * [Learn PHP 7](./PHP/Learn%20PHP%207%20Object%20Oriented%20Modular%20.pdf)
 * [React](./React/README.md)
