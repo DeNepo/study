@@ -1,7 +1,3 @@
-* [Agile](./Agile/README.md)
-  * [Agile Software Development](./Agile/Agile%20Software%20Development.pdf)
-  * [Head First Agile A brain-friendly Guide](./Agile/Head%20First%20Agile%20A%20Brain-Friendly%20Guide%20to%20Agile.pdf)
-
 
 * [Learning](./learning/README.md)
   * [Learning from Code](./learning/learning-from-code.md)
@@ -17,10 +13,13 @@
   * [Workflows](./git-and-github/workflows.md)
   * [Pro-Git](./git-and-github/Pro-Git.pdf)
   * [Version control with Git](./git-and-github/Version%20Control%20with%20Git%20and%20GitHub.pdf)
-* [Collaborating](./collaborating/README.md)
-  * [Pair Programming](./collaborating/pair-programming.md)
-  * [Code Review](./collaborating/code-review.md)
-  * [Agile Development](./collaborating/agile-development.md)
+  
+* [Agile](./Agile/README.md)
+  * [Agile Software Development](./Agile/Agile%20Software%20Development.pdf)
+  * [Head First Agile A brain-friendly Guide](./Agile/Head%20First%20Agile%20A%20Brain-Friendly%20Guide%20to%20Agile.pdf)
+  * [Pair Programming](./Agile/pair-programming.md)
+  * [Code Review](./Agile/code-review.md)
+  * [Agile Development](./Agile/agile-development.md)
 * [UX/UI Design](./ux-ui-design/README.md)
 * [Programming](./programming/README.md)
   * [Reading Source Code](./programming/reading-source-code.md)
