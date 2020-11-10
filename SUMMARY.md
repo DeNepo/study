@@ -32,7 +32,7 @@
   * [JavaScript Data Structure](./javascript/JavaScript%20Data%20Structures%20.pdf)
   * [JavaScript the Definitive Guide ](./javascript/JavaScript%20The%20Definitive%20Guide.pdf)
   * [JavaScript.info part1](./javascript/Javascript.info%20Ebook%20Part%201%20.pdf)
-  * [JavaScript.info part1](./javascript/Javascript.info%20Ebook%20Part%202%20.pdf)
+  * [JavaScript.info part2](./javascript/Javascript.info%20Ebook%20Part%202%20.pdf)
   * [Professional JavaScript](./javascript/Professional%20JavaScript.pdf)
   
 * [HTML & CSS](./html-css/README.md)
