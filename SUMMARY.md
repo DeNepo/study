@@ -21,7 +21,6 @@
 * [Agile](./Agile/README.md)
   * [Agile Software Development](./Agile/Agile%20Software%20Development.pdf)
   * [Head First Agile A brain-friendly Guide](./Agile/Head%20First%20Agile%20A%20Brain-Friendly%20Guide%20to%20Agile.pdf)
-  
   * [Agile Development](./Agile/agile-development.md)
   
 * [UX/UI Design](./ux-ui-design/README.md)
