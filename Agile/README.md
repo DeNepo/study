@@ -21,10 +21,10 @@ them as easy as possible to adopt.
 
 For the first time, Agile team has found a real, sustainable way to solve problems that generations of
  software development teams have been struggling with. Agile teams use simple, straightforward practices
- that have been proven to work on real-life projects. **But wait a minute...
-if agile is so great, why isn’t everyone doing it?
-** It turns out that in the real world, a practice that works really well for one team causes serious problems for another team, and **
-the difference is the team mindset**. So get ready to **change the way you think about your projects.**
+ that have been proven to work on real-life projects. **But wait a minute...if agile is so great, why isn’t everyone doing it?**
+
+** It turns out that in the real world, a practice that works really well for one team causes serious problems for another team, and**
+**the difference is the team mindset**. So get ready to **change the way you think about your projects.**
 
 **A daily standup is a good starting point**
 
@@ -47,13 +47,12 @@ a- **Scrum is the most common approach to agile**
 **Scrum** is a software development framework focused on project management and product development.
 When a team uses Scrum, every project follows the same basic pattern. There are three main roles on a Scrum project : 
 
-        1- **Product Owner** works with the team to maintain a Product Backlog (a list of the new 
-            features, changes to existing features, bug fixes, infrastructure changes or other 
-            activities that a team may deliver in order to achieve a specific outcome. )
+1- **Product Owner** works with the team to maintain a Product Backlog (a list of the new features, changes to existing
+features, bug fixes, infrastructure changes or other activities that a team may deliver in order to achieve a specific outcome.)
 
-        2- **The Scrum Master** helps guide the team past roadblocks 
+2- **The Scrum Master** helps guide the team past roadblocks 
 
-        3- **Development Team members** (everyone else on the team)
+3- **Development Team members** (everyone else on the team)
 
  The project is divided into sprints (two weeks to one month). At the start of a sprint, the team does **sprint planning** to determine which features from the **Product Backlog** they’ll build during the sprint. This is called the **Sprint Backlog**, and the team works throughout the sprint to build all of the features in it. Every day the team holds a short meeting called the **Daily Scrum**. At the end of the sprint, working software is demonstrated to the product owner and stakeholders in the **sprint review** , and the team holds a **retrospective** (A retrospective is a meeting in which everyone talks about how the last part of the project went) to figure out lessons they’ve learned.
 
@@ -106,6 +105,7 @@ Some project managers have a saying: “Plan the work, work the plan.” And agi
 **It’s important to plan your project, but it’s even more important to recognize that those plans will change once the team starts working on the code.**
 **In agile projects, your product is developed step by step, each new step drawing knowledge from the previous step. When a plan (or requirement, or anything else you use in a project) is developed this way, it’s called "progressive elaboration".**
 
+---
 **Question** : I’m still not clear on what  “waterfall” means ?
 
 Waterfall” is the name given to a
@@ -166,4 +166,5 @@ Yes! Scrum uses an **iterative approach**. The Scrum practice of using sprints i
 
 ---
 Reference :
+
 Stellman, A. & Greene,J (2017) Head First Agile A Brain-Friendly Guide.O’Reilly Media, Inc., 1005 Gravenstein Highway North, Sebastopol, CA 95472.P 1-68
