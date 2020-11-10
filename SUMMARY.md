@@ -12,6 +12,7 @@
   * [Because Windows](./git-and-github/because-windows.md)
   * [Workflows](./git-and-github/workflows.md)
   * [Pro-Git](./git-and-github/Pro-Git.pdf)
+<<<<<<< HEAD
   * [Version control with Git](./git-and-github/Version%20Control%20with%20Git%20and%20GitHub.pdf)
   
 * [Agile](./Agile/README.md)
@@ -20,6 +21,13 @@
   * [Pair Programming](./Agile/pair-programming.md)
   * [Code Review](./Agile/code-review.md)
   * [Agile Development](./Agile/agile-development.md)
+=======
+  * [Version control with Git](./git-and-github/Version-Control-with-Git-and-GitHub.pdf)
+* [Collaborating](./collaborating/README.md)
+  * [Pair Programming](./collaborating/pair-programming.md)
+  * [Code Review](./collaborating/code-review.md)
+  * [Agile Development](./collaborating/agile-development.md)
+>>>>>>> 74996062e900eb4cb7dbe21b752134cef8be89ef
 * [UX/UI Design](./ux-ui-design/README.md)
 * [Programming](./programming/README.md)
   * [Reading Source Code](./programming/reading-source-code.md)
@@ -32,6 +40,7 @@
   * [Functional Programming](./javascript/functional-programming.md)
   * [OOP](./javascript/oop.md)
   * [Asynchronous](./javascript/asynchronous.md)
+
   * [Beginning JavaScript](./javascript/Beginning%20JavaScript%20.pdf)
   * [JavaScript Data Structure](./javascript/JavaScript%20Data%20Structures%20.pdf)
   * [JavaScript the Definitive Guide ](./javascript/JavaScript%20The%20Definitive%20Guide.pdf)
@@ -44,19 +53,17 @@
   * [CSS](./html-css/css.md)
   * [Accessibility](./html-css/accessibility.md)
   * [Responsive Design](./html-css/responsive-design.md)
-  * [HTML](./html-css/HTML%20Learn%20HTML%20With%20Ultimate.pdf)
-  * [Responsive Design book](./html-css/Responsive%20Web%20Design%20with%20HTML5%20and%20CSS%20.pdf)
+  * [HTML](./html-css/learn-html-with-ultimate.pdf)
+  * [Responsive Design book](./html-css/responsive-web-design-with-html5-and-css.pdf)
 * [PHP & SQL](./PHP/README.md)
-  * [Beginning PHP & MySQL](./PHP/Beginning%20PHP%20and%20MySQL.pdf)
-  * [Learn PHP 7](./PHP/Learn%20PHP%207%20Object%20Oriented%20Modular%20.pdf)
+  * [Beginning PHP & MySQL](./PHP/beginning-php-and-mysql.pdf)
+  * [Learn PHP 7](./PHP/learn-php-7-object-oriented-modular.pdf)
 * [React](./React/README.md)
-  * [Learn React](./React/Learning%20React%20.pdf)
-  * [The road to learn React](./React/The%20Road%20to%20learn%20React%20.pdf) 
-* [Text Editors](./Text-edito/README.md) 
-  * [VSC](./Text-editors/Visual%20Studio%20Code%20End-To-End.pdf)
+  * [Learn React](./React/learning-react.pdf)
+  * [The road to learn React](./React/the-road-to-learn-react.pdf)
+* [Text Editors](./Text-edito/README.md)
+  * [VSC](./Text-editors/visual-studio-code-end-to-end.pdf)
   * [VIM](./Text-editors/vim.pdf)
-  
-    
 * [CLI](./cli/README.md)
   * [for Linux](./cli/for-linux.md)
   * [for Mac](./cli/for-mac.md)

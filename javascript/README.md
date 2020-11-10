@@ -17,6 +17,7 @@
 #### Not Videos
 
 * [LaunchCode](https://education.launchcode.org/intro-to-professional-web-dev/index.html)
+* [Programiz](https://www.programiz.com/javascript)
 * [JavaScript for Everyone](https://github.com/Asabeneh/JavaScript-for-Everyone)
 * [30 Days of JavaScript](https://github.com/Asabeneh/30DaysOfJavaScript)
 * RithmSchool: [JS part 1](https://www.rithmschool.com/courses/javascript), [JS part 2](https://www.rithmschool.com/courses/intermediate-javascript/)
