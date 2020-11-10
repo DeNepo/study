@@ -37,11 +37,11 @@
   * [OOP](./javascript/oop.md)
   * [Asynchronous](./javascript/asynchronous.md)
 
-  * [Beginning JavaScript](./javascript/Beginning%20JavaScript%20.pdf)
-  * [JavaScript Data Structure](./javascript/JavaScript%20Data%20Structures%20.pdf)
+  * [Beginning JavaScript](./javascript/Beginning-JavaScript.pdf)
+  * [JavaScript Data Structure](./javascript/JavaScript-Data-Structures.pdf)
   * [JavaScript the Definitive Guide ](./javascript/JavaScript%20The%20Definitive%20Guide.pdf)
-  * [JavaScript.info part1](./javascript/Javascript.info%20Ebook%20Part%201%20.pdf)
-  * [JavaScript.info part2](./javascript/Javascript.info%20Ebook%20Part%202%20.pdf)
+  * [JavaScript.info part1](./javascript/Javascript.info-Ebook-Part-1.pdf)
+  * [JavaScript.info part2](./javascript/Javascript.info-Ebook-Part-2.pdf)
   * [Professional JavaScript](./javascript/Professional%20JavaScript.pdf)
   
 * [HTML & CSS](./html-css/README.md)
