@@ -12,7 +12,6 @@
   * [Because Windows](./git-and-github/because-windows.md)
   * [Workflows](./git-and-github/workflows.md)
   * [Pro-Git](./git-and-github/Pro-Git.pdf)
-<<<<<<< HEAD
   * [Version control with Git](./git-and-github/Version%20Control%20with%20Git%20and%20GitHub.pdf)
   
 * [Agile](./Agile/README.md)
@@ -21,13 +20,7 @@
   * [Pair Programming](./Agile/pair-programming.md)
   * [Code Review](./Agile/code-review.md)
   * [Agile Development](./Agile/agile-development.md)
-=======
-  * [Version control with Git](./git-and-github/Version-Control-with-Git-and-GitHub.pdf)
-* [Collaborating](./collaborating/README.md)
-  * [Pair Programming](./collaborating/pair-programming.md)
-  * [Code Review](./collaborating/code-review.md)
-  * [Agile Development](./collaborating/agile-development.md)
->>>>>>> 74996062e900eb4cb7dbe21b752134cef8be89ef
+  
 * [UX/UI Design](./ux-ui-design/README.md)
 * [Programming](./programming/README.md)
   * [Reading Source Code](./programming/reading-source-code.md)
