@@ -31,6 +31,13 @@
 * mmtuts: [How to Get Started with JS](https://www.youtube.com/watch?v=ItYye9h_RXg&list=PL0eyrZgxdwhxNGMWROnaY35NLyEjTqcgB&index=1)
 * Net Ninja: [JS Tutorial For Beginners](https://www.youtube.com/watch?v=qoSksQ4s_hg&list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET)
 * Mosh: [Learn JavaScript in 1 Hour](https://www.youtube.com/watch?v=W6NZfCO5SIk)
+* FreeCodeCamp: [JavaScript Tutorial For Beginners](https://www.youtube.com/watch?v=PkZNo7MFNFg&amp;t=7070s)
+* Edureka: [Learn JavaScript - Full Course for Beginners](https://www.youtube.com/watch?v=o1IaduQICO0&t=4461s)
+* Caleb Curry: [JavaScript All in one - 9 hours](https://www.youtube.com/watch?v=9M4XKi25I2M&t=13825s)
+* Traversy Media: [JavaScript Crash Course For Beginners](https://www.youtube.com/watch?v=hdI2bqOjy3c&t=2003s)
+* Great Learning: [JavaScript Tutorial For Beginners - Full Course In 11 Hours ](https://www.youtube.com/watch?v=g1X6b5tRvrw)
+
+
 
 ### Go-To JS References:
 

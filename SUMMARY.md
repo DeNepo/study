@@ -1,3 +1,4 @@
+
 * [Learning](./learning/README.md)
   * [Learning from Code](./learning/learning-from-code.md)
   * [How to Ask Questions](./learning/how-to-ask-questions.md)
@@ -11,11 +12,17 @@
   * [Because Windows](./git-and-github/because-windows.md)
   * [Workflows](./git-and-github/workflows.md)
   * [Pro-Git](./git-and-github/Pro-Git.pdf)
-  * [Version control with Git](./git-and-github/Version-Control-with-Git-and-GitHub.pdf)
+  * [Version control with Git](./git-and-github/Version%20Control%20with%20Git%20and%20GitHub.pdf)
+  
 * [Collaborating](./collaborating/README.md)
   * [Pair Programming](./collaborating/pair-programming.md)
   * [Code Review](./collaborating/code-review.md)
-  * [Agile Development](./collaborating/agile-development.md)
+  
+* [Agile](./Agile/README.md)
+  * [Agile Software Development](./Agile/Agile%20Software%20Development.pdf)
+  * [Head First Agile A brain-friendly Guide](./Agile/Head%20First%20Agile%20A%20Brain-Friendly%20Guide%20to%20Agile.pdf)
+  * [Agile Development](./Agile/agile-development.md)
+  
 * [UX/UI Design](./ux-ui-design/README.md)
 * [Programming](./programming/README.md)
   * [Reading Source Code](./programming/reading-source-code.md)
@@ -28,12 +35,14 @@
   * [Functional Programming](./javascript/functional-programming.md)
   * [OOP](./javascript/oop.md)
   * [Asynchronous](./javascript/asynchronous.md)
+
   * [Beginning JavaScript](./javascript/Beginning-JavaScript.pdf)
   * [JavaScript Data Structure](./javascript/JavaScript-Data-Structures.pdf)
-  * [JavaScript the Definitive Guide ](./javascript/JavaScript-The-Definitive-Guide.pdf)
+  * [JavaScript the Definitive Guide ](./javascript/JavaScript%20The%20Definitive%20Guide.pdf)
   * [JavaScript.info part1](./javascript/Javascript.info-Ebook-Part-1.pdf)
-  * [JavaScript.info part1](./javascript/Javascript.info-Ebook-Part-2.pdf)
-  * [Professional JavaScript](./javascript/Professional-JavaScript.pdf)
+  * [JavaScript.info part2](./javascript/Javascript.info-Ebook-Part-2.pdf)
+  * [Professional JavaScript](./javascript/Professional%20JavaScript.pdf)
+  
 * [HTML & CSS](./html-css/README.md)
   * [HTML](./html-css/html.md)
   * [CSS](./html-css/css.md)
