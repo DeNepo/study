@@ -23,7 +23,7 @@ For the first time, Agile team has found a real, sustainable way to solve proble
  software development teams have been struggling with. Agile teams use simple, straightforward practices
  that have been proven to work on real-life projects. **But wait a minute...if agile is so great, why isn’t everyone doing it?**
 
-** It turns out that in the real world, a practice that works really well for one team causes serious problems for another team, and**
+It turns out that in the real world, a practice that works really well for one team causes serious problems for another team, and
 **the difference is the team mindset**. So get ready to **change the way you think about your projects.**
 
 **A daily standup is a good starting point**
@@ -151,6 +151,8 @@ When the team gets together and talks about what they need to build, it really i
 11- The best architectures, requirements, and designs emerge from **self-organizing teams**.
 
 12- At regular intervals, the team reflects on how to become more effective, then **tunes and adjusts its behavior** accordingly.
+
+---
 
 **Question** : The first three principles behind the Agile Manifesto talk about early and continuous delivery of software, welcoming changing requirements, and delivering working software on a short timescale. So **how do teams do that in the real world**?
 
