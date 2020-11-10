@@ -14,9 +14,9 @@
   * [Pro-Git](./git-and-github/Pro-Git.pdf)
   * [Version control with Git](./git-and-github/Version%20Control%20with%20Git%20and%20GitHub.pdf)
   
-* [Collaborating](./Collaborating/README.md)
-  * [Pair Programming](./Collaborating/pair-programming.md)
-  * [Code Review](./Collaborating/code-review.md)
+* [Collaborating](./collaborating/README.md)
+  * [Pair Programming](./collaborating/pair-programming.md)
+  * [Code Review](./collaborating/code-review.md)
   
 * [Agile](./Agile/README.md)
   * [Agile Software Development](./Agile/Agile%20Software%20Development.pdf)
