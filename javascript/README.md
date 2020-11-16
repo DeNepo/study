@@ -39,14 +39,20 @@
 
 
 
-### Go-To JS References:
+### JS References & Text Books:
 
 * [Javascript.info](https://javascript.info) - the best reference for good & quick explanations
+    * [JavaScript.info part1](./javascript/Javascript.info-Ebook-Part-1.pdf) (pdf)
+    * [JavaScript.info part2](./javascript/Javascript.info-Ebook-Part-2.pdf) (pdf)
 * [Eloquent JavaScript](https://eloquentjavascript.net/Eloquent_JavaScript.pdf)
 * [Just JavaScript](https://github.com/HackYourFutureBelgium/just-javascript)
 * [MDN](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics) - where you go to dig deeper
 * JS Study Tools: [JS Tutor](http://www.pythontutor.com/live.html#mode=edit), [the devtools](https://developer.mozilla.org/en-US/docs/Tools), VSCode Debugger
-
+* [Beginning JavaScript](./Beginning-JavaScript.pdf) (pdf)
+* [JavaScript Data Structure](./JavaScript-Data-Structures.pdf) (pdf)
+* [JavaScript the Definitive Guide ](./JavaScript%20The%20Definitive%20Guide.pdf) (pdf)
+* [Professional JavaScript](./Professional%20JavaScript.pdf) (pdf)
+ 
 ### Other references, tutorials & practice
 
 * [JavaScript Core 1 (CYF)](https://github.com/CodeYourFuture/JavaScript-Core-1-Homework) (practice repo)
