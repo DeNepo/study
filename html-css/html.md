@@ -2,6 +2,7 @@
 
 * [HTML Cheat Sheet](https://htmlcheatsheet.com/)
 * [online HTML validator](https://validator.w3.org/) - just enter your website's URL!
+* [HTML](./learn-html-with-ultimate.pdf) (pdf)
 
 ## Semantic Elements
 

@@ -1,6 +1,7 @@
 # Responsive Design
 
 * [What is Responsive Design?](https://www.youtube.com/watch?v=5KGah8bW8GE)
+* [Responsive Design book](./responsive-web-design-with-html5-and-css.pdf) (pdf)
 
 #### Testing Responsiveness
 

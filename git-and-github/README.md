@@ -35,6 +35,9 @@ ___
 * quick references:
   * [rogerdudler](http://rogerdudler.github.com/git-guide)
   * [firstaidgit](http://firstaidgit.io/#/)
+* text books
+  * [Pro-Git](./Pro-Git.pdf)
+  * [Version control with Git](./Version%20Control%20with%20Git%20and%20GitHub.pdf)
 
 ___
 
