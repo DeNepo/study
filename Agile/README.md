@@ -1,4 +1,35 @@
 # Agile
+
+<br>
+<details>
+  <summary>references</summary>
+
+  ## Links
+
+  * [Agile Manifesto](https://agilemanifesto.org/principles.html)
+  * [Agile Development by Cartoon](https://www.youtube.com/watch?v=Z9QbYZh1YXY&list=PLBUu5aGDLKnbeEx8U-5r436bw6p9wv1rS)
+  * [Splitting User Stories](https://www.youtube.com/watch?v=EDT0HMtDwYI)
+  * [user story based portfolio example](https://github.com/elewa-student/User-Centered-Development)
+  
+  ## Text Books
+  
+  * [Head First Agile A brain-friendly Guide](./Head%20First%20Agile%20A%20Brain-Friendly%20Guide%20to%20Agile.pdf) (+1, pdf)
+  * [Agile Software Development](./Agile%20Software%20Development.pdf) (pdf)
+ 
+  ## User Stories
+
+  * [Agile Development by Cartoon](https://www.youtube.com/watch?v=Z9QbYZh1YXY&list=PLBUu5aGDLKnbeEx8U-5r436bw6p9wv1rS)
+  * [Splitting User Stories](https://www.youtube.com/watch?v=EDT0HMtDwYI)
+  * [Duck Duck Search](https://duckduckgo.com/?q=what+are+user+stories&iax=videos)
+  * [Example project: Built with Branches](https://github.com/hackyourfuturebelgium/built-with-branches)
+  * [Examples and a Template](https://www.atlassian.com/agile/project-management/user-stories)
+  * [Obligatory: WikiPedia](https://en.wikipedia.org/wiki/User_story)
+
+
+  
+</details>
+<br>
+
 ---
 ## What is Agile ?
 
